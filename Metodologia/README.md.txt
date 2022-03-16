@@ -2,6 +2,8 @@
 Descrição dos projetos semestrais do curso de Banco de Dados
 
 ## Projeto Scrum-Cloud 
+ <img src=”caminho até a imagem”>
+
 
 
 ### Solicitação e parceiro
