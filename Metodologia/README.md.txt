@@ -2,7 +2,7 @@
 Descrição dos projetos semestrais do curso de Banco de Dados
 
 ## Projeto Scrum-Cloud 
- <img src=”logo-scrumcloud.png”>
+ <img src=”https://github.com/alexiakarine/Bertoti/tree/main/Metodologia/Icons/logo-scrumcloud.png”>
 
 
 
