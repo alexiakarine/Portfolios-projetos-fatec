@@ -1,54 +1,90 @@
-# Portfólio_das_APIs
-Descrição dos projetos semestrais do curso de Banco de Dados
-Aluna: Alexia Karine Silva dos Santos
+<!-- Readme - MAIN -->
 
-## Projeto Scrum-Cloud 
-![logo-scrumcloud](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png "LOGO")
-ll
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-karine-silva-5b0a79116/)](https://www.linkedin.com/in/alexia-karine-silva-5b0a79116/)
+# Seja bem-vindo ao <img src="/resource/images/icon-scrumcloud.png">
 
- 
-## A Empresa
-![ICONE_EMPRESA](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-iacit.png "ICONE IACIT")
- 
- Certificada como Empresa Estratégica de Defesa (EED), a IACIT deposita seu conhecimento técnico e o desenvolvimento tecnológico em produtos e sistemas de alta tecnologia, possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
+### Olá! Somos a equipe Tetris responsáveis pelo desenvolvimento da aplicação web ScrumCloud.
+<br>
 
+# ![trabalho-em-equipe](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/trabalho-em-equipe.png)   O Time 
 
-### Solicitação
-Em parceria com a FATEC, a empresa buscava uma aplicação web que permitiria equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+<div class="time" style= "text-align:justify">
+A equipe Tetris é composta pelos seguintes estudantes do 3º semestre de Banco de Dados pela FATEC de São José dos Campos: <br><br>
 
-Após a solicitação traçamos o objetivo de desenvolver uma aplicação web afim de permitir o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.
+- ***Product Owner***
+  - [Nágella Nasser](https://github.com/nagellanasser) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/nagellanasser/)  
+- ***Scrum Master***
+  - [Davi das Neves Machado](https://github.com/machadondavi) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/davinevesmachado/)
+- ***Team Dev :***
+  - [Alexia Karine Silva dos Santos](https://github.com/alexiakarine) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/alexia-karine-silva-5b0a79116/)
+  - [Gabriel Oliveira Sana](https://github.com/gabsana) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/gabriel-sana-ba91a4147/)
+  - [Guilherme Agostin](https://github.com/GuilhermeAgostin) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/guilherme-agostin-90ba6169/)
+  - [Guilherme de Oliveira Perfeito](https://github.com/guitambau) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/guilherme-perfeito-a76729168/)
+  - [Jefferson Tavares de Araújo](https://github.com/jefferson-tavares-araujo) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/jeffersontavaresaraujo/)
+  - [Renata Garcia Nonato](https://github.com/RenataGarciaNonato) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/mwlite/in/renata-garcia-2a84821b7)
+  - [Valdiney José do Nascimento](https://github.com/Valdineynascimento) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/)
+</div>
+<br><br>
 
-#### Tecnologias Utilizadas
-Git
+## :pushpin: Objetivo  
+Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
-GitHub
+Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.
+</div>
+<br>
 
-Linguagem de Programação: Java
-IDE Vs Code || Frontend
+## :dart: Público-alvo 
+<div class="publico-alvo" style= "text-align:justify">
+Equipes de Desenvolvimento praticantes de metodologias ágeis que utilizam cerimônias de Planning e Retrospective do framework Scrum em seus projetos. 
+</div>
+<br>
 
-ReactJS
+## :computer: Tecnologias utilizadas 
+<div class="tecnologias" style= "text-align:justify">
 
-Spring Framework
+- Git
+- GitHub
+- IDE Intellij || Backend
+  - Linguagem de Programação: Java
 
-## :art: Protótipos de telas
-<img src=”Bertoti/Metodologia/Icons/tela-login.png”>
+- IDE Vs Code || Frontend
+  - Linguagens:
+    - Marcação: HTML5
+    - Estilização: CSS3
+    - Programação: Javascript
 
+- BootStrap
+- ReactJS
+- Hibernate
+- Spring Framework
+- Banco de Dados: MySQL 
 
-### Contribuições Pessoais
-Neste projeto trabalhei na equipe de desenvolvimento no front-end. 
-Desenvolvi a tela de cadastro utilizando type script e bootstrap. Mantive a identidade visual da tela de login, feita pelo Davi Machado.
-Em parceria com o colega Guilherme Augostin desenvolvemos a tela home, onde apliquei a padronização visual, de botões, textbox, alinhamento, cores (levando em consideração a teoria da cores e a identidade visual adotada pela equipe). 
+</div>
+<br>
 
-### Hard Skills Efetivamente Desenvolvidas
+## :pencil: Documentação
 
-IDE Vs Code || Frontend
-Linguagens:
-Marcação: HTML5
-Estilização: CSS3
-Programação: Javascript
+- [Requisitos Funcionais](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/documentacao/Requisitos-Funcionais.md)
+- [Funcionalidades em desenvolvimento na aplicação](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/documentacao/Funcionalidades.md)
+- [Estórias de Usuário](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/userstories/User-Stories.md)
+- [Product Backlog](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/product-backlog/Product-Backlog.md)
+- [Prototipação](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/wireframes/Wireframes.md)
+- [Modelo Conceitual do Banco de Dados](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/MER_ATUAL.jpeg)
+- [Modelo Lógico do Banco de Dados](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/MER_LOGICO.jpeg)
+- [Sprint planning](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/SprintReleasePlan.PNG)
+- [BSC](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/documentacao/BSC_Scrumcloud-novo.pdf)
+- [Help-Desk](https://newaccount1637966996475.freshdesk.com/support/tickets/new)
 
-### Soft Skills Efetivamente Desenvolvidas
-Trabalho em equipe, demanda por metas e padronização são alguns aspectos trabalhados neste projeto.
+<!--
+- [Relatório de Gestão de Serviços](incluir o link aqui)
+-->
+<br>
 
+## :calendar: Sprints
+
+| Data  | Entregas |
+| ------------- |:-------------:|
+| 08/09 a 19/09/2021      | [Sprint 1](https://github.com/equipe-tetris/scrum-cloud-backend/blob/sprint-1/README.md)     |
+| 20/09 a 10/10/2021      | [Sprint 2](https://github.com/equipe-tetris/scrum-cloud-backend/blob/sprint-2/README.md)     |
+| 18/10 a 07/11/2021       | [Sprint 3](https://github.com/equipe-tetris/scrum-cloud-backend/blob/sprint-3/README.md)    |
+| 08/11 a 28/11/2021      | [Sprint 4](https://github.com/equipe-tetris/scrum-cloud-backend/tree/sprint-4/README.md)     |
 
