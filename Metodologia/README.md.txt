@@ -3,11 +3,11 @@ Descrição dos projetos semestrais do curso de Banco de Dados
 Aluna: Alexia Karine Silva dos Santos
 
 ## Projeto Scrum-Cloud 
-![ICONE_PROJETO](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png "LOGO")
+![ICONE_PROJETO](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png?raw=true "LOGO")
 
  
 ## A Empresa
-![ICONE_PROJETO](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-iacit.png "ICONE IACIT")
+![ICONE_EMPRESA](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-iacit.png "ICONE IACIT")
  
  Certificada como Empresa Estratégica de Defesa (EED), a IACIT deposita seu conhecimento técnico e o desenvolvimento tecnológico em produtos e sistemas de alta tecnologia, possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
 
