@@ -3,7 +3,7 @@ Descrição dos projetos semestrais do curso de Banco de Dados
 Aluna: Alexia Karine Silva dos Santos
 
 ## Projeto Scrum-Cloud 
-![alt text](path/to/file/Metodologia/Icons/logo-scrumcloud.png)
+![alt text](Metodologia/Icons/logo-scrumcloud.png)
 
  
 ## A Empresa
