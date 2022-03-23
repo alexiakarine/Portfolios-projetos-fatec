@@ -4,7 +4,7 @@ Aluna: Alexia Karine Silva dos Santos
 
 ## Projeto Scrum-Cloud 
 ![logo-scrumcloud](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png "LOGO")
-
+ll
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-karine-silva-5b0a79116/)](https://www.linkedin.com/in/alexia-karine-silva-5b0a79116/)
 
  
