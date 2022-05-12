@@ -12,10 +12,12 @@ Tenho 24 anos, atualmente sou estudante de banco de dados e trabalho como QA tes
 
 ## 🏍️ Meu terceiro API  
 
-Trabalhei no projeto da API do terceiro semestre como desenvolvedora front-end. O master era um integrante do sexto semestre.
+Trabalhei no projeto da API do terceiro semestre como desenvolvedora front-end.
+* [GIT Equipe Tetris](https://github.com/equipe-tetris/scrum-cloud-frontend) 
 
 ## :bulb: Projeto Scrum-Cloud 
 ![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png)
+
 
 ## :briefcase: A empresa
 A IACIT é uma empresa de desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo.
@@ -77,3 +79,5 @@ Em parceria com o colega Guilherme Augostin desenvolvemos a tela home, onde apli
 ## Contatos 💻
 * [GIT](https://github.com/alexiakarine)
 * [LinkedIn](https://www.linkedin.com/feed/)
+
+
