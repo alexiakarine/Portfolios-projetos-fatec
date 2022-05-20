@@ -14,7 +14,7 @@ Tenho 24 anos, atualmente sou estudante de banco de dados e trabalho como QA tes
 Trabalhei no projeto da API do primeiro semestre como desenvolvedora FullStack
 
 ## :bulb: Projeto Vai de Van
-* [GIT Equipe Coffend]([https://github.com/Valdineynascimento/projeto_integrador_coffeend)
+* [GIT_Equipe_Coffend](https://github.com/Valdineynascimento/projeto_integrador_coffeend)
 
 * [Projeto_finalizado](https://www.youtube.com/watch?v=pv4N1FjU36A)
  
