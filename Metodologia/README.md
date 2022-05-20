@@ -16,7 +16,7 @@ Trabalhei no projeto da API do primeiro semestre como desenvolvedora FullStack
 ## :bulb: Projeto Vai de Van
 * [GIT Equipe Coffend]([https://github.com/Valdineynascimento/projeto_integrador_coffeend) 
 
-* ![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=pv4N1FjU36A)](https://www.youtube.com/watch?v=pv4N1FjU36A)
+* [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=pv4N1FjU36A)
  
 ![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_logo.png)
 
