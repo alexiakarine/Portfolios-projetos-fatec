@@ -48,7 +48,8 @@ Tela de cadastro usada pelo motorista para cadastrar os usuários
 - GoogleMaps
 
 ## :books: Contribuições Pessoais
-Neste projeto trabalhei como desenvolvedora FullStack. Inicialmente o grupo definiu os wireframes, após criar as telas dentro do próprio AppInventor, inclui o Sensor de localização (De acordo com a localizador do aparelho celular, era possível determinar a localização do passageiro por latitude e longitude), em seguida fiz a integração do TyniDB ao FIREBASE para salvar as informações do usuário e os locais cadastrados na nuvem.  
+Neste projeto trabalhei como desenvolvedora FullStack. Inicialmente o grupo definiu os wireframes, que seriam separadas em duas partes, nas telas do usuário (passageiro) e nas telas do usuário (motorista). Em seguida, desenvolvi as telas no AppInventor, de acordo com as necessiaddes de cada usuário. Por exemplo, usando a API do google junto ao Google Maps (quando o localizador do celular estivesse ligado), o passageiro poderia visualizar onde a van estava e os pontos que ela já passou em tempo real, além de cadastrar pontos de embarque e desembarque apenas clicando em um botão que retornava a latitude e longitude do passageiro. 
+Em seguida, foi necessário realizar a integração do TyniDB(Banco utilizado dentro do AppInventor) ao FIREBASE para salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário, para ser possível logar com o usuário desejado foram armazenadas no FIREBASE, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
 
 #### Hard Skills Efetivamente Desenvolvidas
 * Java
@@ -83,25 +84,25 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 
 ## :art: Wireframes
 
-Tela de login
+Tela de login <br>
 ![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-login.png)
 
-Tela de cadastro de usuário
+Tela de cadastro de usuário <br>
 ![tela_cadastro_user](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-cadastro-usuario.png)
 
-Tela de cadastro do Scrum Master
+Tela de cadastro do Scrum Master <br>
 ![tela_cadastro_sm](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-cadastro-sm.jpeg)
 
-Tela de cadastro do time dev
+Tela de cadastro do time dev <br>
 ![tela_cadastro_dev](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-cadastro-time-sm.png)
 
-Tela inicial
+Tela inicial<br>
 ![tela_inicial](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-inicial-sm.png)
 
-Sala poker dos desenvolvedores
+Sala poker dos desenvolvedores <br>
 ![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-sala-planning-poker-dev.png)
 
-Sala poker do Scrum master
+Sala poker do Scrum master <br>
 ![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-sala-planning-poker-sm.png)
 
 ## :computer: Tecnologias Utilizadas
