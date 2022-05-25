@@ -13,7 +13,7 @@ Tenho 24 anos, atualmente sou estudante de banco de dados e trabalho como QA tes
 # :running_woman: Meu primeiro API
 Trabalhei no projeto da API do primeiro semestre como desenvolvedora FullStack
 
-## :bulb: Projeto Vai de Van
+## :bulb: Projeto Vai de Van 
 * [GIT_Equipe_Coffend](https://github.com/Valdineynascimento/projeto_integrador_coffeend)
 
 * [Projeto_finalizado](https://www.youtube.com/watch?v=pv4N1FjU36A)
@@ -30,13 +30,13 @@ Facilitar a vida de motoristas autônomos e passageiros fixos com rotas determin
 Nosso objetivo é a integração entre motorista e passageiros, onde o motorista poderá acessar às informações de todos os passageiros de forma rápida e prática e da mesma forma poderá avisar aos seus usuários o horário previsto de chegada e também, através de mensagens padronizadas, informar de alguns imprevistos. O passageiro poderá informar ao motorista, pelo app de forma instantânea, que não irá naquela determinada viajem.
 
 ## :art: Wireframes
-Tela de login
+Tela de login <br>
 ![Tela_de_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_login.jpg)
 
-Tela de cadastro do usuário
+Tela de cadastro do usuário <br>
 ![Tela_de_cadastro](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastroFeitoPeloPassageiro.jpg)
 
-Tela de cadastro usada pelo motorista para cadastrar os usuários 
+Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 ![Tela_do_motorista](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastro.jpg)
 
 ## :computer: Tecnologias Utilizadas
