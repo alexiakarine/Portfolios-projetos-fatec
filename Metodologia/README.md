@@ -52,7 +52,7 @@ Neste projeto trabalhei como desenvolvedora FullStack. Após a definição dos w
 Em seguida foi necessário realizar a integração do AppInventor ao FIREBASE para salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário foi feita atráves do e-mail informado, para ser possível logar com o usuário desejado, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
 
 Visualização dos usuários cadastrados <br>
-![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/localUSUARIO.png)
+![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)
 
 
 Usando o Google, programei uma interface que acessa a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
