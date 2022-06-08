@@ -141,8 +141,20 @@ Neste projeto trabalhei na equipe de desenvolvimento no front-end.
 Desenvolvi a tela de cadastro utilizando type script e bootstrap. Mantive a identidade visual da tela de login, feita pelo Davi Machado.
 Em parceria com o colega Guilherme Augostin desenvolvemos a tela home, onde apliquei a padronização visual, de botões, textbox, alinhamento, cores (levando em consideração a teoria da cores e a identidade visual adotada pela equipe). 
 
+Código da tela de cadastro<br>
+![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register_1.png)
+
+<br>
+![register1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register2.png)
+
+<br>
+![register2](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register3.png)
+
+<br>
+![register3](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register4.png)
+
 #### Hard Skills Efetivamente Desenvolvidas
-* JavaScript
+* TypeScript
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia
