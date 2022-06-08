@@ -145,13 +145,13 @@ Em parceria com o colega Guilherme Augostin desenvolvemos a tela home, onde apli
 Código da tela de cadastro<br>
 ![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register_1.png)
 
-<br>
+Código da tela de cadastro<br>
 ![register1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register2.png)
 
-<br>
+Código da tela de cadastro<br>
 ![register2](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register3.png)
 
-<br>
+Código da tela de cadastro<br>
 ![register3](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register4.png)
 
 #### Hard Skills Efetivamente Desenvolvidas
