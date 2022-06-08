@@ -48,9 +48,9 @@ Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 - GoogleMaps
 
 ## :books: Contribuições Pessoais
-Neste projeto trabalhei como desenvolvedora FullStack. Após a definição dos wireframes, que seriam separadas em duas partes, nas telas do usuário (passageiro) e nas telas do usuário (motorista). 
-- Desenvolvi as telas no AppInventor, de acordo com as necessiaddes de cada usuário. Por exemplo, usando a API do google junto ao Google Maps (quando o localizador do celular estivesse ligado), o passageiro poderia visualizar onde a van estava e os pontos que ela já passou em tempo real, além de cadastrar pontos de embarque e desembarque apenas clicando em um botão que retornava a latitude e longitude do passageiro. 
-- Em seguida foi necessário realizar a integração do AppInventor ao FIREBASE para salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário foi feita atráves do e-mail informado, para ser possível logar com o usuário desejado, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
+- Neste projeto trabalhei como desenvolvedora FullStack. Após a definição dos wireframes, que seriam separadas em duas partes, nas telas do usuário (passageiro) e nas telas do usuário (motorista). 
+- Usando a API do google junto ao Google Maps (quando o localizador do celular estivesse ligado), o passageiro poderia visualizar onde a van estava e os pontos que ela já passou em tempo real, além de cadastrar pontos de embarque e desembarque apenas clicando em um botão que retornava a latitude e longitude do passageiro. 
+- A integração do AppInventor ao FIREBASE foi realizada afim de salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário foi feita atráves do e-mail informado, para ser possível logar com o usuário desejado, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
 
 Visualização dos usuários cadastrados <br>
 ![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)
