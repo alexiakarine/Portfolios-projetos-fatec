@@ -20,16 +20,16 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 
 ## :art: Wireframes
 <details>
-	<summary>Protótipos do projeto </summary>
-	Tela de login <br>
-	![Tela_de_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_login.jpg)
+<summary>Protótipos</summary>
 
-	Tela de cadastro do usuário <br>
-	![Tela_de_cadastro](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastroFeitoPeloPassageiro.jpg)
+Tela de login <br>
+![Tela_de_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_login.jpg)
 
-	Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
-	![Tela_do_motorista](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastro.jpg)
+Tela de cadastro do usuário <br>
+![Tela_de_cadastro](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastroFeitoPeloPassageiro.jpg)
 
+Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
+![Tela_do_motorista](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastro.jpg)
 </details>
 
 ## :computer: Tecnologias Utilizadas
@@ -44,26 +44,30 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 - Usando a API do google junto ao Google Maps (quando o localizador do celular estivesse ligado), o passageiro poderia visualizar onde a van estava e os pontos que ela já passou em tempo real, além de cadastrar pontos de embarque e desembarque apenas clicando em um botão que retornava a latitude e longitude do passageiro. 
 - A integração do AppInventor ao FIREBASE foi realizada afim de salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário foi feita atráves do e-mail informado, para ser possível logar com o usuário desejado, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
 
-**Desenvolvimento:**  
-	Visualização dos usuários cadastrados <br>
-	<image>![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)</image>
+## :clapper: Demonstração do Código
+<details>
+<summary> Códigos </summary>
 
-	Usando o Google, programei uma interface que acessa a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar 	de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
+Visualização dos usuários cadastrados <br>
+![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)
 
-	Tela de localização <br>
-	![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/localUSUARIO.png)
+Usando o Google, programei uma interface que acessa a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
 
-	Código de localização <br>
-	![localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoLocalizacao.png)
+Tela de localização <br>
+![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/localUSUARIO.png)
 
-	Botão Localizar mapa <br>
-	![localizar_mapa](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoLocalizacao_.png)
+Código de localização <br>
+![localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoLocalizacao.png)
 
-	Gravar a localização no banco <br>
-	![banco](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/gravarLocalBANCO.png)
+Botão Localizar mapa <br>
+![localizar_mapa](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoLocalizacao_.png)
 
-	Visualizaçao de localizações <br>
-	![visualizador](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/banco_Local.png)
+Gravar a localização no banco <br>
+![banco](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/gravarLocalBANCO.png)
+
+Visualizaçao de localizações <br>
+![visualizador](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/banco_Local.png)
+</details>
 
 #### Hard Skills Efetivamente Desenvolvidas
 * Java
