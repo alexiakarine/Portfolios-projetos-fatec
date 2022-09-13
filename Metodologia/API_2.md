@@ -1,6 +1,5 @@
 ## 🚲 Meu segundo API
 
-Trabalhei no projeto da API do terceiro semestre como Product Owner (PO)
 * [GIT Equipe Tetris](https://github.com/equipe-tetris/ConsultCAR) 
 
 ## :bulb: Projeto ConsultCAR
