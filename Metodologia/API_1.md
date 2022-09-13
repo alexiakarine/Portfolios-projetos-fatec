@@ -20,6 +20,7 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 
 ## :art: Wireframes
 <details>
+	<summary>Protótipos do projeto </summary>
 	Tela de login <br>
 	![Tela_de_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_login.jpg)
 
@@ -28,6 +29,7 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 
 	Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 	![Tela_do_motorista](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastro.jpg)
+
 </details>
 
 ## :computer: Tecnologias Utilizadas
@@ -43,12 +45,10 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 - A integração do AppInventor ao FIREBASE foi realizada afim de salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário foi feita atráves do e-mail informado, para ser possível logar com o usuário desejado, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
 
 **Desenvolvimento:**  
-
-<details>
 	Visualização dos usuários cadastrados <br>
-	![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)
+	<image>![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)</image>
 
-	Usando o Google, programei uma interface que acessa a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
+	Usando o Google, programei uma interface que acessa a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar 	de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
 
 	Tela de localização <br>
 	![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/localUSUARIO.png)
@@ -64,7 +64,6 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 
 	Visualizaçao de localizações <br>
 	![visualizador](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/banco_Local.png)
-</details>
 
 #### Hard Skills Efetivamente Desenvolvidas
 * Java
