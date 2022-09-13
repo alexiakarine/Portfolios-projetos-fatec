@@ -1,5 +1,4 @@
 # :running_woman: Meu primeiro API
-Trabalhei no projeto da API do primeiro semestre como desenvolvedora FullStack
 
 ## :bulb: Projeto Vai de Van 
 * [GIT_Equipe_Coffend](https://github.com/Valdineynascimento/projeto_integrador_coffeend)
