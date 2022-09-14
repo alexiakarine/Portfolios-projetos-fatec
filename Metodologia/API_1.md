@@ -1,11 +1,13 @@
 # :running_woman: Meu primeiro API
 
+
 ## :bulb: Projeto Vai de Van 
+![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_logo.png)
+
 * [GIT_Equipe_Coffend](https://github.com/Valdineynascimento/projeto_integrador_coffeend)
 
 * [Projeto_finalizado](https://www.youtube.com/watch?v=pv4N1FjU36A)
  
-![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_logo.png)
 
 ## :briefcase: A empresa
 A solicitação foi realizada para uma empresa fake onde o PO era o professor Fabiano Sabah.
