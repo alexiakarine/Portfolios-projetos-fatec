@@ -34,7 +34,7 @@ Tela de conexão bem sucedida <br>
 
 Tela de log <br>
 ![tela_log](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Wireframe_telaLog.jpeg)
-<details>
+</details>
   
 ## :computer: Tecnologias Utilizadas
 - Git
