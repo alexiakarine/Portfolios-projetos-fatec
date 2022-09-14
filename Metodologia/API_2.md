@@ -35,7 +35,7 @@ Tela de conexão bem sucedida <br>
 Tela de log <br>
 ![tela_log](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Wireframe_telaLog.jpeg)
 <details>
-
+  
 ## :computer: Tecnologias Utilizadas
 - Git
 - GitHub
@@ -46,15 +46,18 @@ Tela de log <br>
 - Extensão espacial para o banco de dados: PostGIS
 
 ## :books: Contribuições Pessoais
-Neste projeto trabalhei como Product Owner
-...
+Neste projeto trabalhei como Product Owner (P.O)
 
-Requisitos <br>
-![requisitos]()
+Neste projeto pude desenvolver formas de comunicação com um terceiro. Ao se colocar neste papel, é necessário ouvir o cliente, entender sua dor e em seguida repassar isso ao grupo de forma efetiva. Dado os requisitos básicos, com a equipe foi discutido como seria desenvolvido o projeto, consequentemente novas dúvidas surgiram, as quais foram repassadas ao cliente e alinhadas as expectativas.
+Acredito que o maior desafio do P.O é o alinhamento de expectativas, como o cliente deseja o projeto, como a equipe entende o pedido, e no final a análise das expectativas iniciais e o projeto em si. 
+
 
 #### Hard Skills Efetivamente Desenvolvidas
 * Trello
-* 
+ 
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia
+* Comunicação
+* Alinhamento de expectativas
+* Capacidade de planejamento
