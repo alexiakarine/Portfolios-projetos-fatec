@@ -39,7 +39,7 @@ Sala poker dos desenvolvedores <br>
 
 Sala poker do Scrum master <br>
 ![tela_login]()
-<details>
+</details>
 
 ## :computer: Tecnologias Utilizadas
 - Git
