@@ -1,4 +1,4 @@
-## :blue_car: Meu quarto API  
+## :airplane: Meu quarto API  
 * [GIT Equipe Tetris]() 
 
 ## :bulb: Projeto 
