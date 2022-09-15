@@ -10,7 +10,7 @@
  
 
 ## :briefcase: A empresa
-A solicitação foi realizada para uma empresa fake onde o PO era o professor Fabiano Sabah.
+Neste semestre não houve empresa parceira e o tema foi sujerido pelo professor Fabiano Sabah.
 
 ## :clipboard: Solicitação 
 Facilitar a vida de motoristas autônomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional.
