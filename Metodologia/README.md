@@ -4,7 +4,9 @@
 - RA: 1460282023028
 
 # 👋 Olá, sou a Alexia 
-Tenho 24 anos, atualmente sou estudante de banco de dados e trabalho como QA tester na empresa DeMaria Softwares
+[Eu](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/WhatsApp%20Image%202022-09-20%20at%2000.09.16.jpeg)
+
+Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Atualmente sou estudante do 5º semestre do curso de banco de dados e trabalho como QA tester na empresa DeMaria Softwares.
 
 - :running_woman:[Projeto integrador do 1º semestre](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_1.md) 
 
