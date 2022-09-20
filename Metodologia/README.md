@@ -6,7 +6,7 @@
 # 👋 Olá, sou a Alexia 
 <img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/WhatsApp%20Image%202022-09-20%20at%2000.09.16.jpeg" width= "20%"/>
 
-Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Atualmente sou estudante do 5º semestre do curso de banco de dados e trabalho como QA tester na empresa DeMaria Softwares.
+Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Automação industrial pelo IFSP e Desenvolvimento de sistemas pela ETEC. Atualmente sou estudante do 5º semestre do curso de banco de dados e trabalho como QA tester na empresa DeMaria Softwares, onde entrei como estagiária de suporte técnico.
 
 - :running_woman:[Projeto integrador do 1º semestre](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_1.md) 
 
