@@ -71,12 +71,12 @@ Visualizaçao de localizações <br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* Java
+* Java (Proficiência: Sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia
-* Lógica de programação
+* Autonomia para desenvolver as tarefas e validar com o cliente
+* Lógica de programação utilizando o AppInventore
 * Integração entre aplicaçãoes usando FIREBASE
-* Utilização do googleMaps nas aplicações
+* Utilização do googleMaps nas aplicações para localização dos usuários
 
 
