@@ -72,9 +72,9 @@ Código da tela de cadastro<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* TypeScript
+* TypeScript (sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia
-* Lógica de programação
-* Frameworks para front-end
+* Autonomia para solicitar ajuda interna de desenvolvimento
+* Lógica de programação da estrutura front-end
+* Frameworks para front-end React
