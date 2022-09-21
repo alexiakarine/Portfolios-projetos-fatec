@@ -53,11 +53,11 @@ Acredito que o maior desafio do P.O é o alinhamento de expectativas, como o cli
 
 
 #### Hard Skills Efetivamente Desenvolvidas
-* Trello
+* Trello (Proeficiência: Sei fazer sem ajuda)
  
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia
-* Comunicação
-* Alinhamento de expectativas
-* Capacidade de planejamento
+* Autonomia para questionar o cliente e coletar dúvidas da equipe
+* Comunicação interna e externa de diversas formas 
+* Alinhamento de expectativas sobre o esperado pelo cliente e o que a equipe é capaz de entregar
+* Capacidade de planejamento de tarefas e tempo para entrega de cada uma
