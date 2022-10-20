@@ -75,6 +75,6 @@ Código da tela de cadastro<br>
 * TypeScript (sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia para solicitar ajuda interna de desenvolvimento
-* Lógica de programação da estrutura front-end
-* Frameworks para front-end React
+* Trabalho em equie e autoorganização de atividades
+* Aprimoramento da lógica de programação e resolução de problemas visando a meta de cada sprint
+* Aprendizagem do frfont-end através de novos frameworks 
