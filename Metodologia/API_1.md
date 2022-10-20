@@ -74,9 +74,9 @@ Visualizaçao de localizações <br>
 * Java (Proficiência: Sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia para desenvolver as tarefas e validar com o cliente
-* Lógica de programação utilizando o AppInventore
-* Integração entre aplicaçãoes usando FIREBASE
-* Utilização do googleMaps nas aplicações para localização dos usuários
+* Autonomia para desenvolver as tarefas e validar com o cliente usando a metodologia SCRUM
+* Aplicação de conhecimentos para utilizar o googleMaps afim de buscar a localizazção dos usuários do sistema.
+* Realização da armazenagem dos dados dos usuários usando FIREBASE 
+
 
 
