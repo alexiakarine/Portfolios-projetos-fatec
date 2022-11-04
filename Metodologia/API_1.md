@@ -34,11 +34,10 @@ Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 </details>
 
 ## :computer: Tecnologias Utilizadas
-- AppInventor
-- GitHub
-- Linguagem de Programação: Java
-- FIREBASIC
-- GoogleMaps
+- AppInventor (Utilizada para estruturação e desenvolvimento do código)
+- GitHub (Utilizado como repositório de projeto)
+- FIREBASE (Utilizado para guardar as informações dos passageiros)
+- GoogleMaps (Utilizado para registrar a localização em tempo real dos passageiros)
 
 ## :books: Contribuições Pessoais
 - Neste projeto trabalhei como desenvolvedora FullStack. Após a definição dos wireframes, que seriam separadas em duas partes, nas telas do usuário (passageiro) e nas telas do usuário (motorista). 
@@ -71,12 +70,12 @@ Visualizaçao de localizações <br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* Java (Proficiência: Sei fazer com ajuda)
+- FIREBASE (Sei fazer com ajuda)
+- AppInventor (Sei fazer sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia para desenvolver as tarefas e validar com o cliente usando a metodologia SCRUM
-* Aplicação de conhecimentos para utilizar o googleMaps afim de buscar a localizazção dos usuários do sistema.
-* Realização da armazenagem dos dados dos usuários usando FIREBASE 
+* Autonomia para junto ao cliente validar as entregas de valor do time usando a metodologia SCRUM
+
 
 
 
