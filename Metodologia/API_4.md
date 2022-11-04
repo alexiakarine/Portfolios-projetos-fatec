@@ -2,25 +2,25 @@
 * [GIT Equipe Tetris]() 
 
 ## :bulb: Projeto 
-![logo_projeto]()
+![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoHeyAlexia.PNG)
 
 
 ## :briefcase: A empresa
-
-
+https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/png-clipart-logo-brand-product-design-trademark-oracle-database-powerpoint-text-trademark.png
 ![logo_empresa]()
 
 ## :clipboard: Solicitação 
-
+Problema
+Uma empresa de calçados tem necessidade de conhecer melhor os seus clientes e segmentá-los para descobrir novas demandas de produtos, melhorando a visibilidade da base de clientes. Essa aplicação também pode auxiliar na tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos.
 
 ## :pushpin: Solução apresentada pelo grupo
-
+Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação para Análise de Dados da empresa de Calçados denominada Hey Alexia, com a importação de arquivos para segmentação e verificação das informações, a fim de auxiliar a gestão da empresa ao permitir visualizar gráficos e dados referentes à estas segmentações.
 
 ## :art: Wireframes
 <details>
 <summary>Protótipos</summary>
 Tela de login <br>
-![tela_login]()
+![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_perfil.png)
 
 Tela de cadastro de usuário <br>
 ![tela_cadastro_user]()
@@ -37,9 +37,10 @@ Tela inicial<br>
 Sala poker dos desenvolvedores <br>
 ![tela_login]()
 
-Sala poker do Scrum master <br>
-![tela_login]()
+Tela de Upload de arquivos <br>
+![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_upload.png)
 </details>
+
 
 ## :computer: Tecnologias Utilizadas
 - Git
