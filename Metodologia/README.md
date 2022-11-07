@@ -1,4 +1,4 @@
-# Portifólio de projetos
+# Portfólio de projetos
 - Aluna: Alexia Karine Silva dos Santos
 - Banco de Dados, 5º Semestre
 - RA: 1460282023028
