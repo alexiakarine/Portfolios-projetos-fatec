@@ -6,8 +6,7 @@
 
 
 ## :briefcase: A empresa
-https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/png-clipart-logo-brand-product-design-trademark-oracle-database-powerpoint-text-trademark.png
-![logo_empresa]()
+![logo_empresa](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/png-clipart-logo-brand-product-design-trademark-oracle-database-powerpoint-text-trademark.png)
 
 ## :clipboard: Solicitação 
 Problema
@@ -25,31 +24,33 @@ Tela de login <br>
 Tela de cadastro de usuário <br>
 ![tela_cadastro_user]()
 
-Tela de cadastro do Scrum Master <br>
-![tela_cadastro_sm]()
+Tela do usuário<br>
+![tela_cadastro_sm](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_perfil.png)
 
-Tela de cadastro do time dev <br>
-![tela_cadastro_dev]()
+Tela dashboard<br>
+![tela_cadastro_dev](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_dashboard.png)
 
-Tela inicial<br>
-![tela_inicial]()
+Tela cadastro e login<br>
+![tela_inicial](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_login.png)
 
-Sala poker dos desenvolvedores <br>
-![tela_login]()
+Tela de upload de arquivos <br>
+![tela_upload1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_upload.png)
 
-Tela de Upload de arquivos <br>
-![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_upload.png)
+Tela de upload de arquivos
+![tela_upload2](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Grafico_01.png)
+
+Tela de upload de arquivos
+![tela_upload](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Grafico_02.png)
 </details>
 
-
 ## :computer: Tecnologias Utilizadas
-- Git
-- GitHub
-- Linguagem de Programação: Java
-- IDE Vs Code || Frontend
-- ReactJS
-- Spring Framework
-
+- GitHub (Utilizado como repositório)
+- Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
+- IDE Vs Code || Frontend (Utilizado como editor de código front-end)
+- IntelliJ (Utilizado como editor de código back-end)
+- VueJS (Utilizada nos códigos front-end da aplicação)
+- Spring Framework (Utiilizado para criar a aplicação)
+- Oracle | Oracle Clound (Utilizado para armazenamento de dados)
 
 ## :books: Contribuições Pessoais
 
@@ -69,9 +70,12 @@ Código da tela de cadastro<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* TypeScript
+* JavaScript (Sei fazer com ajuda)
+* SpringBoot (Sei fazer com ajuda)
+* Oracle clound (Sei fazer com ajuda)
+* GitHub (Sei sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia
-* Lógica de programação
-* Frameworks para front-end
+* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
+* Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
+* Aplicação da metodologia ágil com entregas frequentes, contínuas e com valor agragado. 
