@@ -1,7 +1,7 @@
-# :running_woman: Meu primeiro API
+# :running_woman: VAI DE VAN
 
 
-## :bulb: Projeto Vai de Van 
+## :bulb: Projeto 
 ![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_logo.png)
 
 * [GIT_Equipe_Coffend](https://github.com/Valdineynascimento/projeto_integrador_coffeend)
