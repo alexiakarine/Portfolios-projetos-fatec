@@ -1,5 +1,6 @@
 ## :blue_car: Meu quarto API  
-* [GIT Equipe Tetris]() 
+[](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoSANJA.png)
+* [GIT Equipe SanjaValley](https://github.com/EquipeFatec/api) 
 
 ## :bulb: Projeto 
 ![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoHeyAlexia.PNG)
@@ -56,24 +57,53 @@ Tela de upload de arquivos
 
 <details>
 <summary>Códigos</summary>
-Código da tela de cadastro<br>
-![register]()
+Código home<br>
+![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHOME.PNG)
+<br>
 
-Código da tela de cadastro<br>
-![register1]()
+![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome_.PNG)
+<br>
 
-Código da tela de cadastro<br>
-![register2]()
+![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome__.PNG)
+<br>
 
-Código da tela de cadastro<br>
-![register3]()
+Código components do menu<br>
+![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/menu.PNG)
+<br>
+
+![register1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu2.PNG)
+<br>
+
+![register2](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu3.PNG)
+<br>
+
+![register3](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu4.PNG)
+<br>
+
+![register4](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu5.PNG)
+<br>
+
+![register5](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu6.PNG)
+<br>
+
+![register7](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu7.PNG)
+<br>
+
+![register8](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu8.PNG)
+<br>
+
+![register9](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu9.PNG)
+<br>
+
+![register10](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu10.PNG)
+<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* JavaScript (Sei fazer com ajuda)
-* SpringBoot (Sei fazer com ajuda)
-* Oracle clound (Sei fazer com ajuda)
-* GitHub (Sei sem ajuda)
+* JavaScript (Proeficiência: Sei fazer com ajuda)
+* SpringBoot (Proeficiência: Sei fazer com ajuda)
+* Oracle clound (Proeficiência: Sei fazer com ajuda)
+* GitHub (Proeficiência: Sei sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
