@@ -49,7 +49,7 @@ Sala poker do Scrum master <br>
 - IntelliJ (Utilizado como editor de código  back-end)
 - ReactJS (Utilizada nos códigos front-end da aplicação)
 - Spring Framework (Utiilizado para criar a aplicação)
-- MySQL (Utilizado para armazenamento de dados)
+- MySQL (Utilizado para inclusão, gerenciamento e armazenamento de dados)
 
 
 ## :books: Contribuições Pessoais
@@ -73,7 +73,8 @@ Código da tela de cadastro<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* TypeScript (sei fazer com ajuda)
+* TypeScript (Proeficiência: sei fazer com ajuda)
+* ReactJS (Proeficiência: Ouvi falar)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Trabalho em equipe de forma auto-organizada com divisão de tarefas e prioridades de tarefas
