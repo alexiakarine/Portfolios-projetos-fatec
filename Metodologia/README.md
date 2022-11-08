@@ -8,13 +8,13 @@
 
 Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Automação industrial pelo IFSP e Desenvolvimento de sistemas pela ETEC. Atualmente sou estudante do 5º semestre do curso de banco de dados e trabalho como QA tester na empresa DeMaria Softwares, onde entrei como estagiária de suporte técnico.
 
-- :running_woman:[Projeto integrador do 1º semestre](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_1.md) 
+- :running_woman:[1º Projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_1.md) 
 
-- :biking_woman:[Projeto integrador do 2º semestre](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_2.md)
+- :biking_woman:[2º Projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_2.md)
 
-- :motorcycle:[Projeto integrador do 3º semestre](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_3.md)
+- :motorcycle:[3º Projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_3.md)
 
-- :blue_car:[Projeto integrador do 4º semestre](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_4.md)
+- :blue_car:[4º Projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_4.md)
 
 
 ## Contatos 💻
