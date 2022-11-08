@@ -37,13 +37,12 @@ Tela de log <br>
 </details>
   
 ## :computer: Tecnologias Utilizadas
-- Git
-- GitHub
-- Apache Maven
-- IDE Eclipse || JAVA
-- Biblioteca GeoTools
-- Banco de Dados: PostgreSQL || pgAdmin4 ou DBeaver
-- Extensão espacial para o banco de dados: PostGIS
+- GitHub (Utilizado como repositório)
+- Apache Maven (Utilizado como ferramenta de compilação do código)
+- IDE Eclipse || JAVA (IDE para desenvolvimento Java)
+- Biblioteca GeoTools (biblioteca adaptada aos padrões internacionais utilizada no desenvolvimento de software para informação geográfica)
+- Banco de Dados: PostgreSQL || pgAdmin4 ou DBeaver (Utilizado para inclusão, gerenciamento e armazenamento de dados)
+- Extensão espacial para o banco de dados: PostGIS (Extensão espacial que permite o uso de objetos GIS ser armazenado em banco de dados)
 
 ## :books: Contribuições Pessoais
 Neste projeto trabalhei como Product Owner (P.O)
