@@ -1,5 +1,5 @@
 ## :blue_car: Meu quarto API  
-[](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoSANJA.png)
+![](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoSANJA.png)
 * [GIT Equipe SanjaValley](https://github.com/EquipeFatec/api) 
 
 ## :bulb: Projeto 
@@ -7,7 +7,7 @@
 
 
 ## :briefcase: A empresa
-![logo_empresa](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/png-clipart-logo-brand-product-design-trademark-oracle-database-powerpoint-text-trademark.png)
+![logo_empresa](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/oracle-logo.png)
 
 ## :clipboard: Solicitação 
 Problema
@@ -19,14 +19,9 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 ## :art: Wireframes
 <details>
 <summary>Protótipos</summary>
-Tela de login <br>
-![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_perfil.png)
-
-Tela de cadastro de usuário <br>
-![tela_cadastro_user]()
 
 Tela do usuário<br>
-![tela_cadastro_sm](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_perfil.png)
+![tela_PERFIL](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_perfil.png)
 
 Tela dashboard<br>
 ![tela_cadastro_dev](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/wireframe_dashboard.png)
@@ -57,18 +52,19 @@ Tela de upload de arquivos
 
 <details>
 <summary>Códigos</summary>
+
 Código home<br>
-![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHOME.PNG)
+![register-HOME](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHOME.PNG)
 <br>
 
-![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome_.PNG)
+![register_HOME](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome_.PNG)
 <br>
 
-![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome__.PNG)
+![register_1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome__.PNG)
 <br>
 
 Código components do menu<br>
-![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/menu.PNG)
+![register_2](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/menu.PNG)
 <br>
 
 ![register1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu2.PNG)
