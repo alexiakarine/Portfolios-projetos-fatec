@@ -50,18 +50,30 @@ Tela de upload de arquivos
 
 ## :books: Contribuições Pessoais
 
+Utilizando o Primefaces, foram importadas bibliotecas específicas para a organização das informações no Dashboard e da tela Home. 
+
 <details>
-<summary>Códigos</summary>
+<summary>Códigos da tela Home</summary>
+  
+A Utilização da biblioteca Splitter e SplitterPanel possibilitou a tela de Login e Cadastro na mesma visualização. Na imagem abaixo, mostra como essa biblioteca foi utilizada junto a as referências dos components Login e Cadastro.
 
 Código home<br>
 ![register-HOME](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHOME.PNG)
 <br>
 
+No VueJs, as importações das bibliotecas ocorrem em duas etapas, na primeira, é utilizado o import disponibilizazdo pelo primefaces na tag Script, junto aos imports dos components de Login e Cadastro e em seguida é declarado como componente no export default como exibido na imagem abaixo.
+
 ![register_HOME](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome_.PNG)
 <br>
 
-![register_1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoHome__.PNG)
-<br>
+</details>
+
+<details>
+<summary>Códigos do component Menu</summary>
+
+
+Além das bibliotecas citadas anteriormente, foi utilizazdo o conceito de components para o menu lateral exibido na tela principal, assim, a alteração poderia ser realizazda apenas em um local, e utilizazda em mais de uma tela. O Modal na tela Menu foi usado de forma intencional afim de evitar os diversos direcionamentos de tela, uma vez que, neste projeto um dos requisitos funcionais foi a utilização de routers. Inicialmente o modal é chamado dentro da tag Dialog, onde só é exibido no click do botão, nas imagnes abaixo são exibidas essa estrutura.
+
 
 Código components do menu<br>
 ![register_2](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/menu.PNG)
@@ -76,14 +88,16 @@ Código components do menu<br>
 ![register3](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu4.PNG)
 <br>
 
+
+A função do Modal é desenvolvida na parte JavaScript do código, onde inicialmente são declaradas no return do data() como false e no methods passamos o modal como true, desta forma, quando ele só abrirá se for requisitado ao clicar no botão do menu
+ 
 ![register4](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu5.PNG)
 <br>
 
 ![register5](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu6.PNG)
 <br>
 
-![register7](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu7.PNG)
-<br>
+Por fim, na tag style, temos toda a estilização do dos components usando css.
 
 ![register8](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/componenteMenu8.PNG)
 <br>
