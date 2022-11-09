@@ -1,4 +1,4 @@
-# :running_woman: VAI DE VAN
+# :running_woman: 1º Projeto - VAI DE VAN
 
 
 ## :bulb: Projeto 
@@ -48,15 +48,18 @@ Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 <details>
 <summary> Códigos </summary>
 
+
+Com FIREBASE foi possível realizar a autenticação dos usuários como exibido abaixo.
+
 Visualização dos usuários cadastrados <br>
 ![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)
 
-Usando o Google, programei uma interface que acessa a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
+Usando o Google, programei uma interface que acesse a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
 
 Tela de localização <br>
 ![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/localUSUARIO.png)
 
-Código de localização <br>
+Código de ativação da localização <br>
 ![localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoLocalizacao.png)
 
 Botão Localizar mapa <br>
