@@ -20,6 +20,7 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 ## :art: Wireframes
 <details>
 <summary>Protótipos</summary>
+
 Tela de login <br>
 ![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-login.png)
 
@@ -59,18 +60,15 @@ Em parceria com o colega Guilherme Augostin desenvolvemos a tela home, onde apli
 
 <details>
 <summary>Códigos</summary>
+
+Na inclusão de um usuário, foi incluída a validação das senhas informadas pelos usuários afim de verificar se os dados inclusos nos campos "Senha" e "Confirmação de senha" correspondem.
+
 Código da tela de cadastro<br>
 ![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register_1.png)
 
 Código da tela de cadastro<br>
 ![register1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register2.png)
 
-Código da tela de cadastro<br>
-![register2](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register3.png)
-
-Código da tela de cadastro<br>
-![register3](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register4.png)
-</details>
 
 #### Hard Skills Efetivamente Desenvolvidas
 * TypeScript (Proeficiência: sei fazer com ajuda)
