@@ -7,6 +7,8 @@
 
 
 ## :briefcase: A empresa
+A Oracle Corporation é uma empresa multinacional de tecnologia e informática norte-americana , especializada no desenvolvimento e comercialização de hardware e softwares e de banco de dados.
+
 ![logo_empresa](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/oracle-logo.png)
 
 ## :clipboard: Solicitação 
