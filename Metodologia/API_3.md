@@ -1,15 +1,16 @@
 ## 🏍️ 3º Projeto - Scrum-Cloud
 * [GIT Equipe Tetris](https://github.com/equipe-tetris/scrum-cloud-frontend) 
 
-## :bulb: Projeto 
-![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png)
+<img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tetris.jpg" width= "20%"/>
 
+## :bulb: Projeto 
+<img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png" width= "20%"/>
 
 ## :briefcase: A empresa
 A IACIT é uma empresa de desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo.
 Possui vasta experiência em diversas áreas de atuação, oferecendo soluções e serviços de alta tecnologia para Defesa e Segurança Pública;
 
-![logo_iacit](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-iacit.png)
+<img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-iacit.png" width= "30%"/>
 
 ## :clipboard: Solicitação 
 Uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
