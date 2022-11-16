@@ -1,6 +1,9 @@
 ## :biking_woman: Meu segundo API
 
 * [GIT Equipe Tetris](https://github.com/equipe-tetris/ConsultCAR) 
+ <img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tetris.jpg" width= "20%"/>
+
+
 
 ## :bulb: Projeto ConsultCAR
 ![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/LogoConsultCAR_50px.png)
