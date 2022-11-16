@@ -13,9 +13,10 @@ Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Aut
   <img align="center" alt="alexia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alexia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alexia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="alexia-Java " height="65" width="70" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="alexia-mySQL " height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
   <img align="center" alt="alexia-Node " height="65" width="70" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="alexia-Oracle " height="65" width="70" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
+  <img align="center" alt="alexia-gitBash " height="65" width="70" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
  </div>
 
 - :running_woman:[1º Projeto - Vai de van](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_1.md) 
