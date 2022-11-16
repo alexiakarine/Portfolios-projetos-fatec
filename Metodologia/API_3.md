@@ -68,12 +68,17 @@ Código da tela de cadastro<br>
 
 Código da tela de cadastro<br>
 ![register1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register2.png)
-
+</details>
 
 #### Hard Skills Efetivamente Desenvolvidas
 * TypeScript (Proeficiência: sei fazer com ajuda)
 * ReactJS (Proeficiência: Ouvi falar)
+* GitHub (Proeficiência: Sei sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Trabalho em equipe de forma auto-organizada com divisão de tarefas e prioridades de tarefas
+* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
+* Aplicação da metodologia ágil com o time se adaptando as mudanças em prol da meta final.
+
+
 
