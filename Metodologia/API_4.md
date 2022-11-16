@@ -1,10 +1,10 @@
 ## :blue_car: 4º Projeto - Hey Alexia
-![](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoSANJA.png)
 * [GIT Equipe SanjaValley](https://github.com/EquipeFatec/api) 
 
-## :bulb: Projeto 
-![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoHeyAlexia.PNG)
+ <img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoSANJA.png" width= "20%"/>
 
+## :bulb: Projeto 
+ <img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoHeyAlexia.PNG" width= "25%"/>
 
 ## :briefcase: A empresa
 A Oracle Corporation é uma empresa multinacional de tecnologia e informática norte-americana , especializada no desenvolvimento e comercialização de hardware e softwares e de banco de dados.
