@@ -50,7 +50,7 @@ Tela de upload de arquivos
 
 ## :books: Contribuições Pessoais
 
-Utilizando o Primefaces, foram importadas bibliotecas específicas para a organização das informações no Dashboard e da tela Home. 
+Neste projeto me dediquei ao front-end. Por usar o VueJS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back. 
 
 <details>
 <summary>Códigos da tela Home</summary>
