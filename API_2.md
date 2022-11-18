@@ -1,17 +1,17 @@
 ## :biking_woman: Meu segundo API
 
 * [GIT Equipe Tetris](https://github.com/equipe-tetris/ConsultCAR) 
- <img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tetris.jpg" width= "20%"/>
+ <img src = "https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tetris.jpg" width= "20%"/>
 
 
 
 ## :bulb: Projeto ConsultCAR
-![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/LogoConsultCAR_50px.png)
+![logo_projeto](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/LogoConsultCAR_50px.png)
 
 ## :briefcase: A empresa
 A Visiona é uma empresa voltada para a integração de sistemas espaciais. 
 
-![logo_visiona](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logoVISIONA.png)
+![logo_visiona](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/logoVISIONA.png)
 
 ## :clipboard: Solicitação 
 Uma aplicação web que permita importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
@@ -24,19 +24,19 @@ Nossa aplicação permitirá o disponibilizar de forma organizada em tabela info
 <summary>Protótipos</summary>
 
 Tela principal <br>
-![tela_principal](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Wireframe_telaPrincipal.jpeg)
+![tela_principal](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/Wireframe_telaPrincipal.jpeg)
 
 Tela de entrada de arquivo <br>
-![tela_entrada](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Wireframe_telaDirEntrada.arqComp.jpeg)
+![tela_entrada](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/Wireframe_telaDirEntrada.arqComp.jpeg)
 
 Tela de saída de arquivo <br>
-![tela_saida](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Wireframe_telaDirSaida.arqDescomp.jpeg)
+![tela_saida](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/Wireframe_telaDirSaida.arqDescomp.jpeg)
 
 Tela de conexão bem sucedida <br>
-![tela_conexao_sucedida](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Wireframe_telaConexaoBemSucedida.jpeg)
+![tela_conexao_sucedida](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/Wireframe_telaConexaoBemSucedida.jpeg)
 
 Tela de log <br>
-![tela_log](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/Wireframe_telaLog.jpeg)
+![tela_log](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/Wireframe_telaLog.jpeg)
 </details>
   
 ## :computer: Tecnologias Utilizadas
