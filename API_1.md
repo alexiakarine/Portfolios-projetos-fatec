@@ -2,7 +2,7 @@
 
 
 ## :bulb: Projeto 
-![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_logo.png)
+![logo_projeto](/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
 
 * [GIT_Equipe_Coffend](https://github.com/Valdineynascimento/projeto_integrador_coffeend)
 
@@ -24,13 +24,13 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 <summary>Protótipos</summary>
 
 Tela de login <br>
-![Tela_de_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_login.jpg)
+![Tela_de_login](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_login.jpg)
 
 Tela de cadastro do usuário <br>
-![Tela_de_cadastro](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastroFeitoPeloPassageiro.jpg)
+![Tela_de_cadastro](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_cadastroFeitoPeloPassageiro.jpg)
 
 Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
-![Tela_do_motorista](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/VaideVan_cadastro.jpg)
+![Tela_do_motorista](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_cadastro.jpg)
 </details>
 
 ## :computer: Tecnologias Utilizadas
@@ -52,24 +52,24 @@ Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 Com FIREBASE foi possível realizar a autenticação dos usuários como exibido abaixo.
 
 Visualização dos usuários cadastrados <br>
-![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/firebase.png)
+![visualização_localizacao](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/firebase.png)
 
 Usando o Google, programei uma interface que acesse a localização do usuário em tempo real e salva essa informação no banco. Assim o usuário poderia informar de forma simples e exata o local de embarque/desembarque, guardar e alterar esta innformação.
 
 Tela de localização <br>
-![visualização_localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/localUSUARIO.png)
+![visualização_localizacao](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/localUSUARIO.png)
 
 Código de ativação da localização <br>
-![localizacao](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoLocalizacao.png)
+![localizacao](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/codigoLocalizacao.png)
 
 Botão Localizar mapa <br>
-![localizar_mapa](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/codigoLocalizacao_.png)
+![localizar_mapa](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/codigoLocalizacao_.png)
 
 Gravar a localização no banco <br>
-![banco](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/gravarLocalBANCO.png)
+![banco](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/gravarLocalBANCO.png)
 
 Visualizaçao de localizações <br>
-![visualizador](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/banco_Local.png)
+![visualizador](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/banco_Local.png)
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
