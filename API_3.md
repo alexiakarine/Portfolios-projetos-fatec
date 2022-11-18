@@ -1,16 +1,16 @@
 ## 🏍️ 3º Projeto - Scrum-Cloud
 * [GIT Equipe Tetris](https://github.com/equipe-tetris/scrum-cloud-frontend) 
 
-<img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tetris.jpg" width= "20%"/>
+<img src = "https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tetris.jpg" width= "20%"/>
 
 ## :bulb: Projeto 
-<img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png" width= "20%"/>
+<img src = "https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/logo-scrumcloud.png" width= "20%"/>
 
 ## :briefcase: A empresa
 A IACIT é uma empresa de desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo.
 Possui vasta experiência em diversas áreas de atuação, oferecendo soluções e serviços de alta tecnologia para Defesa e Segurança Pública;
 
-<img src = "https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-iacit.png" width= "30%"/>
+<img src = "https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/logo-iacit.png" width= "30%"/>
 
 ## :clipboard: Solicitação 
 Uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
@@ -23,25 +23,25 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 <summary>Protótipos</summary>
 
 Tela de login <br>
-![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-login.png)
+![tela_login](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tela-login.png)
 
 Tela de cadastro de usuário <br>
-![tela_cadastro_user](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-cadastro-usuario.png)
+![tela_cadastro_user](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tela-cadastro-usuario.png)
 
 Tela de cadastro do Scrum Master <br>
-![tela_cadastro_sm](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-cadastro-sm.jpeg)
+![tela_cadastro_sm](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tela-cadastro-sm.jpeg)
 
 Tela de cadastro do time dev <br>
-![tela_cadastro_dev](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-cadastro-time-sm.png)
+![tela_cadastro_dev](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tela-cadastro-time-sm.png)
 
 Tela inicial<br>
-![tela_inicial](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-inicial-sm.png)
+![tela_inicial](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tela-inicial-sm.png)
 
 Sala poker dos desenvolvedores <br>
-![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-sala-planning-poker-dev.png)
+![tela_login](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tela-sala-planning-poker-dev.png)
 
 Sala poker do Scrum master <br>
-![tela_login](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/tela-sala-planning-poker-sm.png)
+![tela_login](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/tela-sala-planning-poker-sm.png)
 </details>
 
 ## :computer: Tecnologias Utilizadas
@@ -65,10 +65,10 @@ Em parceria com o colega Guilherme Augostin desenvolvemos a tela home, onde apli
 Na inclusão de um usuário, foi incluída a validação das senhas informadas pelos usuários afim de verificar se os dados inclusos nos campos "Senha" e "Confirmação de senha" correspondem.
 
 Código da tela de cadastro<br>
-![register](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register_1.png)
+![register](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/register_1.png)
 
 Código da tela de cadastro<br>
-![register1](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/register2.png)
+![register1](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/register2.png)
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
