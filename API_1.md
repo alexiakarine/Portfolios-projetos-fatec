@@ -2,7 +2,7 @@
 
 
 ## :bulb: Projeto 
-![logo_projeto](/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
+![logo_projeto](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
 
 * [GIT_Equipe_Coffend](https://github.com/Valdineynascimento/projeto_integrador_coffeend)
 
