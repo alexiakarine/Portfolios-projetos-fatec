@@ -19,13 +19,13 @@ Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Aut
   <img align="center" alt="alexia-gitBash " height="65" width="70" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
  </div>
 
-- :running_woman:[1º Projeto - Vai de van](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_1.md) 
+- :running_woman:[1º Projeto - Vai de van](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_1.md) 
 
-- :biking_woman:[2º Projeto - Consult CAR](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_2.md)
+- :biking_woman:[2º Projeto - Consult CAR](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_2.md)
 
-- :motorcycle:[3º Projeto - Scrum-Cloud](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_3.md)
+- :motorcycle:[3º Projeto - Scrum-Cloud](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_3.md)
 
-- :blue_car:[4º Projeto - Hey Alexia](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/API_4.md)
+- :blue_car:[4º Projeto - Hey Alexia](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_4.md)
 
 
 ## Contatos 💻
