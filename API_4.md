@@ -52,7 +52,8 @@ Tela de upload de arquivos
 
 ## :books: Contribuições Pessoais
 
-Neste projeto me dediquei ao front-end. Por usar o VueJS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back. 
+Neste projeto me dediquei ao front-end. Por usar o VueJS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back.
+Na tela principal, foram colocados vários gráficos e tabelas afim de exibir os dados parametrizados por grupos específicos de clientes.
 
 <details>
 <summary>Códigos da tela Home</summary>
@@ -69,6 +70,8 @@ No VueJs, as importações das bibliotecas ocorrem em duas etapas, na primeira, 
 <br>
 
 </details>
+
+No menu foi colocado as opções de perfil(possibilitando ao usuário editar os dados como telefone e e-mail por exemplo), manual do usuário (contendo os passos de como utilizar o sistema), upload de arquivos com extensão csv e download dos relatórios gerados pelo sistema espelhando os gráficos.
 
 <details>
 <summary>Códigos do component Menu</summary>
