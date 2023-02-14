@@ -25,8 +25,11 @@ Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Aut
 
 - :motorcycle:[3º Projeto - Scrum-Cloud](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_3.md)
 
-- :blue_car:[4º Projeto - Persuance](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_4.md)
+- 	:blue_car:[4º Projeto - Hey_Alexia](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_4.md)
 
+- :truck:[5º Projeto - Persuance](https://github.com/alexiakarine/ProjetoIntegrador/blob/master/API_5.md)
+
+- :steam_locomotive:[6º Projeto - ](https://github.com/alexiakarine/ProjetoIntegrador/blob/master/API_6.md)
 
 ## Contatos 💻
 * [GIT](https://github.com/alexiakarine)
