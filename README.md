@@ -27,9 +27,9 @@ Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Aut
 
 - 	:blue_car:[4º Projeto - Hey_Alexia](https://github.com/alexiakarine/Projeto-integrador/blob/master/API_4.md)
 
-- :steam_locomotive:[5º Projeto - Persuance](https://github.com/alexiakarine/ProjetoIntegrador/blob/master/API_5.md)
+- :airplane:[5º Projeto - Persuance](https://github.com/alexiakarine/ProjetoIntegrador/blob/master/API_5.md)
 
-- :airplane:[6º Projeto - ](https://github.com/alexiakarine/ProjetoIntegrador/blob/master/API_6.md)
+- 🚀[6º Projeto - ](https://github.com/alexiakarine/ProjetoIntegrador/blob/master/API_6.md)
 
 ## Contatos 💻
 * [GIT](https://github.com/alexiakarine)
