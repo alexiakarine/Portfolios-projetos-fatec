@@ -50,7 +50,7 @@ Tela de configuração<br>
 <summary>Códigos</summary>
 Código da conulta de textos<br>
 
-Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o modal exibido ao buscar uma palavra e o displayModalTexto o modal exibido ao consultar um texto. <br>
+Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o modal exibido ao buscar uma palavra e o displayModalTexto o modal exibido ao consultar um texto.
 <br>
  ![consultarTextos](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultarTexto1.PNG) 
  
@@ -62,7 +62,7 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 ![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/buscarTexto.PNG)
  
  <br> Utilizamos o axios para se comunicar com o back e trazer as informações necessárias para a exibição.
-![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/buscarTexto.PNG)
+![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/metodoBuscaa.PNG)
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
