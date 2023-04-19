@@ -48,21 +48,26 @@ Tela de configuração<br>
 
 <details>
 <summary>Códigos</summary>
-Código da tela de cadastro<br>
-![register]()
+Código da conulta de textos<br>
 
-Código da tela de cadastro<br>
-![register1]()
+Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o modal exibido ao buscar uma palavra e o displayModalTexto o modal exibido ao consultar um texto. <br>
+<br>
+ ![consultarTextos](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultarTexto1.PNG) 
+ 
+<br>Aqui podemos ver a chamada do modal exibido através dos botões Buscar(icon = "pi pi-search") e Conultar texto.<br>
+ <br>
+ ![consultarTexto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultaTexto.PNG)
 
-Código da tela de cadastro<br>
-![register2]()
-
-Código da tela de cadastro<br>
-![register3]()
+<br> Neste caso optamos por exibir os dados organizados nas colunas pelo dialog como mostrado abaixo.
+![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/buscarTexto.PNG)
+ 
+ <br> Utilizamos o axios para se comunicar com o back e trazer as informações necessárias para a exibição.
+![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/buscarTexto.PNG)
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* TypeScript
+* JavaScript
+* CSS
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia
