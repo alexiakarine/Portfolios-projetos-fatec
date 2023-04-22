@@ -68,8 +68,10 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 #### Hard Skills Efetivamente Desenvolvidas
 * JavaScript
 * CSS
+* GitFlow
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia
-* Lógica de programação
+* DevOps
 * Frameworks para front-end
+* Metodologia Ágil 
+* Lógica de programação
