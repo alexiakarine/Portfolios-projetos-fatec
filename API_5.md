@@ -6,7 +6,7 @@
 
 
 ## :briefcase: A empresa
-Neste semestre não houve empresa externa o cliente foi o curso de Manutenção de aéronaves.
+Neste semestre não houve empresa externa o cliente foi o curso de Manutenção de aeronaves.
 
 ## :clipboard: Solicitação 
 A norma STE é utilizada pelos fabricantes de aviões e componentes aeronáuticos com a proposta de escrever em inglês utilizando não mais que 900 palavras (todos os fabricantes utilizam). Para a documentação das aeronaves, é necessário realizar uma verificação das palavras aprovadas para que esteja conforme a norma. Atualmente, no curso de Manutenção de Aeronaves, esta busca é realizada por meio de uma planilha que apresenta as palavras e suas características.
@@ -35,14 +35,13 @@ Tela de configuração<br>
 </details>
 
 ## :computer: Tecnologias Utilizadas
-- Git
-- GitHub
-- Linguagem de Programação: Java
-- IDE Vs Code || Frontend
-- VueJS
-- Spring Framework
-- MySQL
-
+- GitHub (Utilizado como repositório)
+- Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
+- IDE Vs Code || Frontend (Utilizado como editor de código front-end)
+- IntelliJ (Utilizado como editor de código back-end)
+- VueJS (Utilizada nos códigos front-end da aplicação)
+- Spring Framework (Utiilizado para criar a aplicação)
+- MySQL (Utilizado para armazenamento de dados)
 
 ## :books: Contribuições Pessoais
 
@@ -66,12 +65,17 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* JavaScript
-* CSS
-* GitFlow
+* JavaScript (Proeficiência: Sei fazer com ajuda)
+* VueJS (Proeficiência: Sei fazer sem ajuda)
+* CSS (Proeficiência: Sei fazer sem ajuda)
+* GitFlow (Proeficiência: Sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* DevOps
-* Frameworks para front-end
-* Metodologia Ágil 
-* Lógica de programação
+* Implementação da pipeline e para os testes automatizados junto ao GitFlow  
+* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
+* Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
+* Aplicação da metodologia ágil com entregas frequentes, contínuas e com valor agragado.
+* Lógica de programação para os testes unitários no back-end
+
+
+
