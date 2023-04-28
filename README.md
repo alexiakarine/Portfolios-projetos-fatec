@@ -6,7 +6,7 @@
 # 👋 Olá, sou a Alexia 
 <img src = "https://github.com/alexiakarine/Bertoti/blob/master/Icons/WhatsApp%20Image%202022-09-20%20at%2000.09.16.jpeg" width= "20%"/>
 
-Tenho 24 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Automação industrial pelo IFSP e em Desenvolvimento de sistemas pela ETEC. Atualmente sou estudante do 5º semestre do curso de banco de dados e trabalho como Analista de qualidade na empresa JetSoft. Conheço as seguintes tecnologias:
+Tenho 25 anos, gosto de animes, músicas latinas e cozinhar. Sou técnica em Automação industrial pelo IFSP e em Desenvolvimento de sistemas pela ETEC. Atualmente sou estudante do 6º semestre do curso de banco de dados e trabalho como Analista de qualidade na empresa JetSoft. Conheço as seguintes tecnologias:
  
 <div style="display: inline_block"><br>
   <img align="center" alt="alexia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
