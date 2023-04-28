@@ -47,10 +47,10 @@ Sala poker do Scrum master <br>
 ## :computer: Tecnologias Utilizadas
 - GitHub (Utilizado como repositório)
 - Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
-- IDE Vs Code || Front-end (Utilizado como editor de código front-end)
-- IntelliJ (Utilizado como editor de código  back-end)
-- ReactJS (Utilizada nos códigos front-end da aplicação)
 - Spring Framework (Utiilizado para criar a aplicação)
+- IntelliJ (Utilizado como editor de código  back-end)
+- IDE Vs Code (Utilizado como editor de código front-end)
+- ReactJS (Utilizada nos códigos front-end da aplicação)
 - MySQL (Utilizado para inclusão, gerenciamento e armazenamento de dados)
 
 
@@ -72,14 +72,15 @@ Código da tela de cadastro<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
+* GitHub (Proeficiência: Sei sem ajuda)
 * TypeScript (Proeficiência: sei fazer com ajuda)
 * ReactJS (Proeficiência: Ouvi falar)
-* GitHub (Proeficiência: Sei sem ajuda)
+
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Trabalho em equipe de forma auto-organizada com divisão de tarefas e prioridades de tarefas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
-* Aplicação da metodologia ágil com o time se adaptando as mudanças em prol da meta final.
+
 
 
 
