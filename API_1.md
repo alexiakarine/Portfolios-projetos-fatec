@@ -34,8 +34,8 @@ Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 </details>
 
 ## :computer: Tecnologias Utilizadas
-- AppInventor (Utilizada para estruturação e desenvolvimento do código)
 - GitHub (Utilizado como repositório de projeto)
+- AppInventor (Utilizada para estruturação e desenvolvimento do código)
 - FIREBASE (Utilizado para guardar as informações dos passageiros)
 - GoogleMaps (Utilizado para registrar a localização em tempo real dos passageiros)
 
