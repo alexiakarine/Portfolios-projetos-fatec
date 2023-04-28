@@ -1,5 +1,5 @@
 ## :rocket: Meu sexto API  
-* [GIT Equipe Tetris]() 
+* [GIT Sanja-valley](https://github.com/Sanja-Valley) 
 
 ## :bulb: Projeto 
 ![logo_projeto]()
@@ -11,7 +11,7 @@
 ![logo_empresa]()
 
 ## :clipboard: Solicitação 
-
+Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de vendas, onde o usuário poderá pesquisar produtos, cadastrar-se, efetuar compras e verificar o histórico da conversa. O Chatbot também irá realizar uma análise dos dados para fornecer recomendações de produtos aos usuários.
 
 ## :pushpin: Solução apresentada pelo grupo
 
@@ -42,13 +42,12 @@ Sala poker do Scrum master <br>
 </details>
 
 ## :computer: Tecnologias Utilizadas
-- Git
-- GitHub
-- Linguagem de Programação: Java
-- IDE Vs Code || Frontend
-- ReactJS
-- Spring Framework
-
+- GitHub (Utilizado como repositório)
+- Linguagem de Programação: Python (Utilizada nos códigos back-end da aplicação)
+- Pycharm (Utilizado como editor de código back-end)
+- IDE Vs Code (Utilizado como editor de código front-end)
+- VueJS (Utilizada nos códigos front-end da aplicação)
+- MongoBD Clound  | Postgrees (Utilizado para armazenamento de dados)
 
 ## :books: Contribuições Pessoais
 
@@ -68,9 +67,17 @@ Código da tela de cadastro<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* TypeScript
+* JavaScript (Proeficiência: Sei fazer com ajuda)
+* VueJS (Proeficiência: Sei fazer sem ajuda)
+* CSS (Proeficiência: Sei fazer sem ajuda)
+* Python (Proeficiência: Sei fazer sem ajuda)
+
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia
-* Lógica de programação
-* Frameworks para front-end
+* Autonomia para desenvolver o chat e o front-end utilizando o aprendido em sala de aula
+* Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
+* Pensamento crítico sobre como o ux ui do sistma impactaria ao cliente final
+* Proatividade na busca por métodos e resoluções dos problemas que surgiram
+* Constante aprimoramento da comunicação com os colegas de grupo
+* Liderança na busca de novos métodos e tecnologias para a resolução do problema proposto
+* Flexibilidade e resiliência para entender quando é necessário mudar ou reorganizar prioridades, atividades e ferramentas
