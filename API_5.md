@@ -71,11 +71,12 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 * GitFlow (Proeficiência: Sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Implementação da pipeline e para os testes automatizados junto ao GitFlow  
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
 * Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
-* Aplicação da metodologia ágil com entregas frequentes, contínuas e com valor agragado.
-* Lógica de programação para os testes unitários no back-end
+* Pensamento crítico sobre como o ux ui do sistma impactaria ao cliente final
+* Proatividade na busca por métodos e resoluções dos problemas que surgiram
+* Constante aprimoramento da comunicação com os colegas de grupo
+
 
 
 
