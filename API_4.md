@@ -44,10 +44,10 @@ Tela de upload de arquivos
 ## :computer: Tecnologias Utilizadas
 - GitHub (Utilizado como repositório)
 - Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
-- IDE Vs Code || Frontend (Utilizado como editor de código front-end)
-- IntelliJ (Utilizado como editor de código back-end)
-- VueJS (Utilizada nos códigos front-end da aplicação)
 - Spring Framework (Utiilizado para criar a aplicação)
+- IntelliJ (Utilizado como editor de código back-end)
+- IDE Vs Code (Utilizado como editor de código front-end)
+- VueJS (Utilizada nos códigos front-end da aplicação)
 - Oracle | Oracle Clound (Utilizado para armazenamento de dados)
 
 ## :books: Contribuições Pessoais
@@ -115,12 +115,13 @@ Por fim, na tag style, temos toda a estilização do dos components usando css.
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
+* GitHub (Proeficiência: Sei sem ajuda)
 * JavaScript (Proeficiência: Sei fazer com ajuda)
 * SpringBoot (Proeficiência: Sei fazer com ajuda)
 * Oracle clound (Proeficiência: Sei fazer com ajuda)
-* GitHub (Proeficiência: Sei sem ajuda)
+
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
 * Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
-* Aplicação da metodologia ágil com entregas frequentes, contínuas e com valor agragado. 
+* Empatia para entender os limites de cada colega
