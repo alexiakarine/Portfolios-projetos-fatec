@@ -2,11 +2,11 @@
 * [GIT Sanja-valley](https://github.com/Sanja-Valley) 
 
 ## :bulb: Projeto 
-![logo_projeto]()
+![logo_projeto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/logo.jpg)
 
 
 ## :briefcase: A empresa
-
+Neste semestre não houve empresa externa o cliente foi o professor Eduardo Sakaue.
 
 ![logo_empresa]()
 
