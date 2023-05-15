@@ -8,7 +8,6 @@
 ## :briefcase: A empresa
 Neste semestre não houve empresa externa o cliente foi o professor Eduardo Sakaue.
 
-![logo_empresa]()
 
 ## :clipboard: Solicitação 
 Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de vendas, onde o usuário poderá pesquisar produtos, cadastrar-se, efetuar compras e verificar o histórico da conversa. O Chatbot também irá realizar uma análise dos dados para fornecer recomendações de produtos aos usuários.
@@ -19,26 +18,11 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de ven
 ## :art: Wireframes
 <details>
 <summary>Protótipos</summary>
-Tela de login <br>
-![tela_login]()
-
-Tela de cadastro de usuário <br>
-![tela_cadastro_user]()
-
-Tela de cadastro do Scrum Master <br>
-![tela_cadastro_sm]()
-
-Tela de cadastro do time dev <br>
-![tela_cadastro_dev]()
-
-Tela inicial<br>
-![tela_inicial]()
-
-Sala poker dos desenvolvedores <br>
-![tela_login]()
-
-Sala poker do Scrum master <br>
-![tela_login]()
+Tela principal <br>
+![tela-principal](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/tela_inicial.JPG)
+  
+Chat <br>
+![chat]()
 </details>
 
 ## :computer: Tecnologias Utilizadas
