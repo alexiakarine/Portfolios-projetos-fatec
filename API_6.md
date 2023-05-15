@@ -71,6 +71,7 @@ Código da tela de cadastro<br>
 * VueJS (Proeficiência: Sei fazer sem ajuda)
 * CSS (Proeficiência: Sei fazer sem ajuda)
 * Python (Proeficiência: Sei fazer sem ajuda)
+* MongoDB (Proeficiência: Sei fazer sem ajuda)
 
 
 #### Soft Skills Efetivamente Desenvolvidas
