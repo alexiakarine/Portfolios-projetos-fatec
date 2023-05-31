@@ -80,15 +80,10 @@ Method ler a tecla Enter<br>
 
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia para desenvolver o chat e o front-end utilizando o aprendido em sala de aula
-* Confiança no trabalho dos colegas
-* Constante aprimoramento da comunicação com os colegas de grupo
-* Flexibilidade e resiliência para entender quando é necessário mudar ou reorganizar prioridades, atividades e ferramentas
-* Inteligência emocional para discernir quando é necessário pedir ajuda
-* Liderança na busca de novos métodos e tecnologias para a resolução do problema proposto
-* Organização e gestão do tempo das atividades propostas em cada sprint
-* Pensamento crítico sobre como o ux ui do sistma impactaria ao cliente final
-* Proatividade na busca por métodos e resoluções dos problemas que surgiram
-* Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
+* Confiança no trabalho dos colegas.
+* Constante aprimoramento da comunicação com os colegas de grupo, e utilização de spikes para verificar qual solução se adequaria melhor ao solicitado.
+* Flexibilidade e resiliência para entender quando é necessário mudar ou reorganizar prioridades, atividades e ferramentas.
+* Inteligência emocional para discernir quando é necessário pedir ajuda.
+* Liderança na busca de novos métodos e tecnologias para a resolução do problema proposto como o desenvolvimento do chat em si.
 
 
