@@ -15,11 +15,21 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de ven
 ## :art: Wireframes
 <details>
 <summary>Protótipos</summary>
+  
+Tela login <br>
+![login](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/login_ifest.JPG)
+
+Termo de aceite <br>
+![aceite](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/termoResponsabilidade.JPG)
+  
 Tela principal <br>
 ![tela-principal](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/tela_inicial.JPG)
   
+Tela de notificação
+![notificacao](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/feed.JPG)
+  
 Chat <br>
-![chat]()
+![chat](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/chatt.JPG)
 </details>
 
 ## :computer: Tecnologias Utilizadas
@@ -34,17 +44,28 @@ Chat <br>
 
 <details>
 <summary>Códigos</summary>
-Código da tela de cadastro<br>
-![register]()
 
-Código da tela de cadastro<br>
-![register1]()
+Código do popup do feed de notícias<br>
+![register](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/codigoFEED.JPG)
 
-Código da tela de cadastro<br>
-![register2]()
+Methods<br>
+![register](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/metodoFeed.JPG)
 
-Código da tela de cadastro<br>
-![register3]()
+Código do chat<br>
+![register1](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/chatcodigo.JPG)
+
+Mounted<br>
+![register3](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/MOUNTEDH.JPG)
+  
+Methods<br>
+![register2](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/metodoCHAT.JPG)
+
+Method Enviar<br>  
+![enviar](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/metodoEnviar.JPG)
+
+Method ler a tecla Enter<br>  
+![enter](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/chatmetodo.JPG)
+
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
