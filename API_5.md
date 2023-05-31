@@ -74,12 +74,7 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 * GitFlow (Proeficiência: Sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
-* Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
-* Pensamento crítico sobre como o ux ui do sistma impactaria ao cliente final
-* Proatividade na busca por métodos e resoluções dos problemas que surgiram
-* Constante aprimoramento da comunicação com os colegas de grupo
-
-
-
-
+* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula como o desenvolvimento de components no vue.js.
+* Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final e contribuindo para a reestruturação da equipe.
+* Pensamento crítico sobre como o ux/ui do sistma impactaria ao cliente final levando em consideração a pouca experiência dos usuários.
+* Proatividade na busca por métodos e resoluções dos problemas que surgiram através de pesquisas direcionadas.
