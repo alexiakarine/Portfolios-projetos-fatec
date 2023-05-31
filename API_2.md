@@ -49,9 +49,8 @@ Tela de log <br>
 - Extensão espacial para o banco de dados: PostGIS (Extensão espacial que permite o uso de objetos GIS ser armazenado em banco de dados)
 
 ## :books: Contribuições Pessoais
-Neste projeto trabalhei como Product Owner (P.O)
-
-Neste projeto pude desenvolver formas de comunicação com um terceiro. Ao se colocar neste papel, é necessário ouvir o cliente, entender sua dor e em seguida repassar isso ao grupo de forma efetiva. Dado os requisitos básicos, com a equipe foi discutido como seria desenvolvido o projeto, consequentemente novas dúvidas surgiram, as quais foram repassadas ao cliente e alinhadas as expectativas.
+Neste projeto trabalhei como Product Owner(P.O) mantendo contato direto com o cliente para o levantamento e definição de requisitos, bem como aprovação do Backlog e das entregas das Sprints.
+Dado os requisitos básicos, com a equipe foi discutido como seria desenvolvido o projeto, consequentemente novas dúvidas surgiram, as quais foram repassadas ao cliente e alinhadas as expectativas.
 Acredito que o maior desafio do P.O é o alinhamento de expectativas, como o cliente deseja o projeto, como a equipe entende o pedido, e no final a análise das expectativas iniciais e o projeto em si. 
 
 
