@@ -52,8 +52,7 @@ Tela de upload de arquivos
 
 ## :books: Contribuições Pessoais
 
-Neste projeto me dediquei ao front-end. Por usar o VueJS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back.
-Na tela principal, foram colocados vários gráficos e tabelas afim de exibir os dados parametrizados por grupos específicos de clientes.
+No front-end, usando o Vue.JS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back, na tela principal foram colocados vários gráficos e tabelas afim de exibir os dados parametrizados por grupos específicos de clientes.
 
 <details>
 <summary>Códigos da tela Home</summary>
