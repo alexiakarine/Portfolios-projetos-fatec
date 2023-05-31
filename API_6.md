@@ -41,9 +41,9 @@ Chat <br>
 - MongoBD Clound  | Postgrees (Utilizado para armazenamento de dados)
 
 ## :books: Contribuições Pessoais
-* No front-end, usando o VueJS, junto ao axios para a integração do front com o back, desenvolvi o chat, a tela de login e os popup's do sistma. 
-* Exibição da chave pix em qr-code passada em base64 pelo back
-* Impementação da LGPD abrangendo o termo de aceite (onde o usuário fica ciente dos termos do sistema, e ao aceitar esse termo é salvo no banco para disponibilização por ordem judicial) e em caso de mudanças no termo, o usuário deve ser informado(qualquer mudança do termo presente no banco, o popup será exibido ao usuário novamente). 
+* No front-end, usando o Vue.JS, junto ao axios para a integração do front com o back, desenvolvi o chat, a tela de login e os popups do sistema. 
+* Exibição da chave pix em qr-code passada em base64 pelo back.
+* Implementação da LGPD abrangendo o termo de aceite, onde o usuário fica ciente dos termos do sistema e ao aceitar ao dados com data e hora são salvos no banco para disponibilização por ordem judicial. Em caso de mudanças no termo, o usuário deve ser informado exibindo novamente o popup. 
 
 <details>
 <summary>Códigos</summary>
