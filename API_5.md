@@ -46,7 +46,7 @@ Tela de configuração<br>
 ## :books: Contribuições Pessoais
 * Atuação como  Scrum master mantendo a comunicação entre a equipe de desenvolvimento e o Product Owner, para suprir as necessidades do time rumo ao objetivo.
 * Burndown e acompanhamento das tarefas
-* No front-end, usando o VueJS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back. Na tela principal ao bucar palavra é exibido toda o datagrid com as respectivas colunas de descrições da palavra pesquisada.
+* No front-end, usando o Vue.JS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back, na tela principal ao buscar a palavra, o datagrid é exibido com as respectivas colunas de descrições da palavra pesquisada.
 
 <details>
 <summary>Códigos</summary>
