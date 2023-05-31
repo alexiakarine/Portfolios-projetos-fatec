@@ -78,8 +78,8 @@ Código da tela de cadastro<br>
 
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Trabalho em equipe de forma auto-organizada com divisão de tarefas e prioridades de tarefas
-* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
+* Trabalho em equipe de forma auto-organizada com divisão de tarefas afim de não prejudicar as entregas. 
+* Liderança para buscar mvp de soluções já existentes e sugerir qual seria a melhor aplicação.
 
 
 
