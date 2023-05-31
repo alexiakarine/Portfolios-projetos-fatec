@@ -44,6 +44,9 @@ Tela de configuração<br>
 - MySQL (Utilizado para armazenamento de dados)
 
 ## :books: Contribuições Pessoais
+* Atuação como  Scrum master mantendo a comunicação entre a equipe de desenvolvimento e o Product Owner, para suprir as necessidades do time rumo ao objetivo.
+* Burndown e acompanhamento das tarefas
+* No front-end, usando o VueJS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back. Na tela principal ao bucar palavra é exibido toda o datagrid com as respectivas colunas de descrições da palavra pesquisada.
 
 <details>
 <summary>Códigos</summary>
@@ -51,11 +54,11 @@ Código da conulta de textos<br>
 
 Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o modal exibido ao buscar uma palavra e o displayModalTexto o modal exibido ao consultar um texto.
 <br>
- ![consultarTextos](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultarTexto1.PNG) 
+![consultarTextos](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultarTexto1.PNG) 
  
 <br>Aqui podemos ver a chamada do modal exibido através dos botões Buscar(icon = "pi pi-search") e Conultar texto.<br>
- <br>
- ![consultarTexto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultaTexto.PNG)
+<br>
+![consultarTexto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultaTexto.PNG)
 
 <br> Neste caso optamos por exibir os dados organizados nas colunas pelo dialog como mostrado abaixo.
 ![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/buscarTexto.PNG)
