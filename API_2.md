@@ -59,6 +59,6 @@ Acredito que o maior desafio do P.O é o alinhamento de expectativas, como o cli
  
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia e segurança para questionar o cliente quanto a dúvidas da equipe
-* Desenvolvimento da comunicação acertiva entre o grupo 
-* Capacidade de planejamento de tarefas e tempo para entrega de cada uma
+* Autonomia e segurança para questionar o cliente quanto a dúvidas da equipe.
+* Desenvolvimento da comunicação acertiva entre o grupo para ter certeza que o grupo entendeu as necessidades citadas.
+* Capacidade de planejamento de tarefas e tempo para entrega de cada uma visando sua prioridade.
