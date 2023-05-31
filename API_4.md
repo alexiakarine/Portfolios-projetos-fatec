@@ -121,6 +121,6 @@ Por fim, na tag style, temos toda a estilização do dos components usando css.
 
 
 #### Soft Skills Efetivamente Desenvolvidas
-* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula
-* Trabalho em equipe aprendendo com as dificuldades em prol do objetivo final
-* Empatia para entender os limites de cada colega
+* Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula como as telas de login, cadastro e upload de arquivos.
+* Trabalho em equipe aprendendo com as dificuldades como a extensão aceita ao subir o arquivo.csv em prol do objetivo final.
+* Empatia para trabalhar em grupo levando em consideração as limitações de cada um.
