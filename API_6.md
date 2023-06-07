@@ -2,7 +2,7 @@
 * [GIT Sanja-valley](https://github.com/Sanja-Valley) 
 
 ## :bulb: Projeto 
-![logo_projeto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/logo.jpg)
+![logo_projeto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/242654761-f0b8b9eb-cd4f-40dc-a306-9ff9e3a4e70f.png)
 
 
 ## :briefcase: A empresa
