@@ -114,11 +114,10 @@ Por fim, na tag style, temos toda a estilização do dos components usando css.
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* GitHub (Proeficiência: Sei sem ajuda)
+* GitHub (Proeficiência: Sei fazer sem ajuda)
 * JavaScript (Proeficiência: Sei fazer com ajuda)
 * SpringBoot (Proeficiência: Sei fazer com ajuda)
-* Oracle clound (Proeficiência: Sei fazer com ajuda)
-
+* Oracle Cloud (Proeficiência: Sei fazer com ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula como as telas de login, cadastro e upload de arquivos.
