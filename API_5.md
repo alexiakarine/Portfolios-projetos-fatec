@@ -72,6 +72,7 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 * VueJS (Proeficiência: Sei fazer sem ajuda)
 * CSS (Proeficiência: Sei fazer sem ajuda)
 * GitFlow (Proeficiência: Sei fazer com ajuda)
+* MySQL (Proeficiência: Sei fazer sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula como o desenvolvimento de components no vue.js.
