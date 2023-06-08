@@ -77,6 +77,7 @@ Method ler a tecla Enter<br>
 * CSS (Proeficiência: Sei fazer sem ajuda)
 * Python (Proeficiência: Sei fazer sem ajuda)
 * MongoDB (Proeficiência: Sei fazer sem ajuda)
+* Flask (Proeficiência: Sei fazer com ajuda)
 
 
 #### Soft Skills Efetivamente Desenvolvidas
