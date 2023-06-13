@@ -75,6 +75,7 @@ Código da tela de cadastro<br>
 * GitHub (Proeficiência: Sei sem ajuda)
 * TypeScript (Proeficiência: sei fazer com ajuda)
 * ReactJS (Proeficiência: Ouvi falar)
+* MySQL(Sei fazer sem ajuda)
 
 
 #### Soft Skills Efetivamente Desenvolvidas
