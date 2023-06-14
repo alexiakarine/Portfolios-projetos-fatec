@@ -13,7 +13,7 @@
 Neste semestre não houve empresa parceira e o tema foi sujerido pelo professor Fabiano Sabah.
 
 ## :clipboard: Solicitação 
-Facilitar a vida de motoristas autônomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional.
+Facilitar a vida de motoristas autônomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado.
 
 ## :pushpin: Solução apresentada pelo grupo
 Nosso objetivo é a integração entre motorista e passageiros, onde o motorista poderá acessar às informações de todos os passageiros de forma rápida e prática e da mesma forma poderá avisar aos seus usuários o horário previsto de chegada e também, através de mensagens padronizadas, informar de alguns imprevistos. O passageiro poderá informar ao motorista, pelo app de forma instantânea, que não irá naquela determinada viajem.
