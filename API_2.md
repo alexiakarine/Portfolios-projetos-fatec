@@ -55,7 +55,7 @@ Acredito que o maior desafio do P.O é o alinhamento de expectativas, como o cli
 
 
 #### Hard Skills Efetivamente Desenvolvidas
-* Trello (Proeficiência: Sei fazer sem ajuda)
+* Trello (Proficiência: Sei fazer sem ajuda)
  
 
 #### Soft Skills Efetivamente Desenvolvidas
