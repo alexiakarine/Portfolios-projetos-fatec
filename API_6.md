@@ -36,7 +36,7 @@ Chat <br>
 - GitHub (Utilizado como repositório)
 - Linguagem de Programação: Python (Utilizada nos códigos back-end da aplicação)
 - Pycharm (Utilizado como editor de código back-end)
-- Vs Code (Utilizado como editor de código front-end)
+- Visual Studio Code (Utilizado como editor de código front-end)
 - VueJS (Utilizada nos códigos front-end da aplicação)
 - MongoBD Clound  | Postgrees (Utilizado para armazenamento de dados)
 - JIRA (Utilizado para auxiliar o gerenciamento das tarefas e entregas)
