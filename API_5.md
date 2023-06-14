@@ -37,7 +37,7 @@ Tela de configuração<br>
 ## :computer: Tecnologias Utilizadas
 - GitHub (Utilizado como repositório)
 - Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
-- Vs Code || Frontend (Utilizado como editor de código front-end)
+- Visual Studio Code || Frontend (Utilizado como editor de código front-end)
 - IntelliJ (Utilizado como editor de código back-end)
 - VueJS (Utilizada nos códigos front-end da aplicação)
 - Spring Framework (Utiilizado para criar a aplicação)
