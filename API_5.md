@@ -42,6 +42,7 @@ Tela de configuração<br>
 - VueJS (Utilizada nos códigos front-end da aplicação)
 - Spring Framework (Utiilizado para criar a aplicação)
 - MySQL (Utilizado para armazenamento de dados)
+- JIRA (Utilizado para organização de tarefas nas entregas)
 
 ## :books: Contribuições Pessoais
 * Atuação como  Scrum master mantendo a comunicação entre a equipe de desenvolvimento e o Product Owner, para suprir as necessidades do time rumo ao objetivo.
@@ -73,6 +74,7 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 * CSS (Proeficiência: Sei fazer sem ajuda)
 * GitFlow (Proeficiência: Sei fazer com ajuda)
 * MySQL (Proeficiência: Sei fazer sem ajuda)
+* JIRA (Proeficiência: Sei fazer sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula como o desenvolvimento de components no vue.js.
