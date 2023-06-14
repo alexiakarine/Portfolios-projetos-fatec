@@ -43,6 +43,7 @@ Tela de configuração<br>
 - Spring Framework (Utiilizado para criar a aplicação)
 - MySQL (Utilizado para armazenamento de dados)
 - JIRA (Utilizado para organização de tarefas nas entregas)
+- SeleniumIDE (Utilizado para automatizar os testes de Aceitação, Compatibilidade, Desempenho, Funcionalidade e Regressão)
 
 ## :books: Contribuições Pessoais
 * Atuação como  Scrum master mantendo a comunicação entre a equipe de desenvolvimento e o Product Owner, para suprir as necessidades do time rumo ao objetivo.
@@ -75,6 +76,7 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 * GitFlow (Proficiência: Sei fazer com ajuda)
 * MySQL (Proficiência: Sei fazer sem ajuda)
 * JIRA (Proficiência: Sei fazer sem ajuda)
+* SeleniumIDE (Proficiência: Sei fazer sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula como o desenvolvimento de components no vue.js.
