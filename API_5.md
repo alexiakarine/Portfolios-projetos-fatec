@@ -69,12 +69,12 @@ Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o m
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* JavaScript (Proeficiência: Sei fazer com ajuda)
-* VueJS (Proeficiência: Sei fazer sem ajuda)
-* CSS (Proeficiência: Sei fazer sem ajuda)
-* GitFlow (Proeficiência: Sei fazer com ajuda)
-* MySQL (Proeficiência: Sei fazer sem ajuda)
-* JIRA (Proeficiência: Sei fazer sem ajuda)
+* JavaScript (Proficiência: Sei fazer com ajuda)
+* VueJS (Proficiência: Sei fazer sem ajuda)
+* CSS (Proficiência: Sei fazer sem ajuda)
+* GitFlow (Proficiência: Sei fazer com ajuda)
+* MySQL (Proficiência: Sei fazer sem ajuda)
+* JIRA (Proficiência: Sei fazer sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para desenvolver o front-end utilizando o aprendido em sala de aula como o desenvolvimento de components no vue.js.
