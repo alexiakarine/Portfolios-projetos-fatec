@@ -17,7 +17,7 @@ A Visiona é uma empresa voltada para a integração de sistemas espaciais.
 Uma aplicação web que permita importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 
 ## :pushpin: Solução apresentada pelo grupo
-Nossa aplicação permitirá o disponibilizar de forma organizada em tabela informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
+Nossa aplicação disponibilizará de forma organizada em tabelas, as informações extraídas a partir da importação de arquivos adquiridos na plataforma do Sicar com extensão .shp
 
 ## :art: Wireframes
 <details>
