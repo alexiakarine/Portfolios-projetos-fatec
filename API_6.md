@@ -39,6 +39,7 @@ Chat <br>
 - IDE Vs Code (Utilizado como editor de código front-end)
 - VueJS (Utilizada nos códigos front-end da aplicação)
 - MongoBD Clound  | Postgrees (Utilizado para armazenamento de dados)
+- JIRA (Utilizado para auxiliar o gerenciamento das tarefas e entregas)
 
 ## :books: Contribuições Pessoais
 * No front-end, usando o Vue.JS, junto ao axios para a integração do front com o back, desenvolvi o chat, a tela de login e os popups do sistema. 
@@ -72,12 +73,13 @@ Method ler a tecla Enter<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* JavaScript (Proeficiência: Sei fazer sem ajuda)
-* VueJS (Proeficiência: Sei fazer sem ajuda)
-* CSS (Proeficiência: Sei fazer sem ajuda)
-* Python (Proeficiência: Sei fazer sem ajuda)
-* MongoDB (Proeficiência: Sei fazer sem ajuda)
-* Flask (Proeficiência: Sei fazer com ajuda)
+* JavaScript (Proficiência: Sei fazer sem ajuda)
+* VueJS (Proficiência: Sei fazer sem ajuda)
+* CSS (Proficiência: Sei fazer sem ajuda)
+* Python (Proficiência: Sei fazer sem ajuda)
+* MongoDB (Proficiência: Sei fazer sem ajuda)
+* Flask (Proficiência: Sei fazer com ajuda)
+* JIRA (Proficiência: Sei fazer sem ajuda)
 
 
 #### Soft Skills Efetivamente Desenvolvidas
