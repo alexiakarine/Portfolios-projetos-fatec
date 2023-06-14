@@ -36,20 +36,20 @@ Tela de cadastro usada pelo motorista para cadastrar os usuários <br>
 ## :computer: Tecnologias Utilizadas
 - GitHub (Utilizado como repositório de projeto)
 - AppInventor (Utilizada para estruturação e desenvolvimento do código)
-- FIREBASE (Utilizado para guardar as informações dos passageiros)
+- Firebase (Utilizado para guardar as informações dos passageiros)
 - GoogleMaps (Utilizado para registrar a localização em tempo real dos passageiros)
 
 ## :books: Contribuições Pessoais
 - Neste projeto trabalhei como desenvolvedora FullStack. Após a definição dos wireframes, que seriam separadas em duas partes, nas telas do usuário (passageiro) e nas telas do usuário (motorista). 
 - Usando a API do google junto ao Google Maps (quando o localizador do celular estivesse ligado), o passageiro poderia visualizar onde a van estava e os pontos que ela já passou em tempo real, além de cadastrar pontos de embarque e desembarque apenas clicando em um botão que retornava a latitude e longitude do passageiro. 
-- A integração do AppInventor ao FIREBASE foi realizada afim de salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário foi feita atráves do e-mail informado, para ser possível logar com o usuário desejado, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
+- A integração do AppInventor ao Firebase foi realizada afim de salvar as informações do usuário e os locais cadastrados na nuvem. A validação do cadastro do usuário foi feita atráves do e-mail informado, para ser possível logar com o usuário desejado, na parte de autenticação, sendo atualizado na nuvem em tempo real sempre que um usuário era cadastrado.
 
 ## :clapper: Demonstração do Código
 <details>
 <summary> Códigos </summary>
 
 
-Com FIREBASE foi possível realizar a autenticação dos usuários como exibido abaixo.
+Com Firebase foi possível realizar a autenticação dos usuários como exibido abaixo.
 
 Visualização dos usuários cadastrados <br>
 ![visualização_localizacao](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/firebase.png)
@@ -73,7 +73,7 @@ Visualizaçao de localizações <br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-- FIREBASE (Proficiência: Sei fazer sem ajuda)
+- Firebase (Proficiência: Sei fazer sem ajuda)
 - AppInventor (Proficiência: Sei fazer sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
