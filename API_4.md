@@ -48,7 +48,7 @@ Tela de upload de arquivos
 - IntelliJ (Utilizado como editor de código back-end)
 - Visual Studio Code (Utilizado como editor de código front-end)
 - VueJS (Utilizada nos códigos front-end da aplicação)
-- Oracle | Oracle Clound (Utilizado para armazenamento de dados)
+- Oracle | Oracle Cloud (Utilizado para armazenamento de dados)
 
 ## :books: Contribuições Pessoais
 
