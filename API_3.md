@@ -72,10 +72,10 @@ Código da tela de cadastro<br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-* GitHub (Proeficiência: Sei sem ajuda)
-* TypeScript (Proeficiência: sei fazer com ajuda)
-* ReactJS (Proeficiência: Ouvi falar)
-* MySQL(Sei fazer sem ajuda)
+* GitHub (Proficiência: Sei sem ajuda)
+* TypeScript (Proficiência: sei fazer com ajuda)
+* ReactJS (Proficiência: Ouvi falar)
+* MySQL(Proficiência: Sei fazer sem ajuda)
 
 
 #### Soft Skills Efetivamente Desenvolvidas
