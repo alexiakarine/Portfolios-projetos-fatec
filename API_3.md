@@ -49,7 +49,7 @@ Sala poker do Scrum master <br>
 - Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
 - Spring Framework (Utiilizado para criar a aplicação)
 - IntelliJ (Utilizado como editor de código  back-end)
-- IDE Vs Code (Utilizado como editor de código front-end)
+- Visual Studio Code (Utilizado como editor de código front-end)
 - ReactJS (Utilizada nos códigos front-end da aplicação)
 - MySQL (Utilizado para inclusão, gerenciamento e armazenamento de dados)
 
