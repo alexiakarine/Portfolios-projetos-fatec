@@ -56,7 +56,7 @@ Sala poker do Scrum master <br>
 
 ## :books: Contribuições Pessoais
 Neste projeto trabalhei na equipe de desenvolvimento no front-end. 
-Desenvolvi a tela de cadastro utilizando type script e bootstrap. Mantive a identidade visual da tela de login, feita pelo Davi Machado.
+Desenvolvi a tela de cadastro utilizando TypeScript e Bootstrap. Mantive a identidade visual da tela de login, feita pelo Davi Machado.
 Em parceria com o colega Guilherme Augostin desenvolvemos a tela home, onde apliquei a padronização visual, de botões, textbox, alinhamento, cores (levando em consideração a teoria da cores e a identidade visual adotada pela equipe). 
 
 <details>
