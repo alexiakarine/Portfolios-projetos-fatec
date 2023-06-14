@@ -42,9 +42,9 @@ Chat <br>
 - JIRA (Utilizado para auxiliar o gerenciamento das tarefas e entregas)
 
 ## :books: Contribuições Pessoais
-* No front-end, usando o Vue.JS, junto ao axios para a integração do front com o back, desenvolvi o chat, a tela de login e os popups do sistema. 
+* No front-end, usando o Vue.JS, junto ao axios para a integração do front com o back, desenvolvi o chat, a tela de login e os pop-ups do sistema. 
 * Exibição da chave pix em qr-code passada em base64 pelo back.
-* Implementação da LGPD abrangendo o termo de aceite, onde o usuário fica ciente dos termos do sistema e ao aceitar aos dados com data e hora são salvos no banco para disponibilização por ordem judicial. Em caso de mudanças no termo, o usuário deve ser informado exibindo novamente o popup. 
+* Implementação da LGPD abrangendo o termo de aceite, onde o usuário fica ciente dos termos do sistema e ao aceitar aos dados com data e hora são salvos no banco para disponibilização por ordem judicial. Em caso de mudanças no termo, o usuário deve ser informado exibindo novamente o pop-up. 
 
 <details>
 <summary>Códigos</summary>
@@ -84,7 +84,7 @@ Method ler a tecla Enter<br>
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Confiança no trabalho dos colegas.
-* Constante aprimoramento da comunicação com os colegas de grupo, e utilização de spikes para verificar qual solução se adequaria melhor ao solicitado.
+* Constante aprimoramento da comunicação com os colegas de grupo, e utilização de Spike para verificar qual solução se adequaria melhor ao solicitado.
 * Flexibilidade e resiliência para entender quando é necessário mudar ou reorganizar prioridades, atividades e ferramentas.
 * Inteligência emocional para discernir quando é necessário pedir ajuda.
 * Liderança na busca de novos métodos e tecnologias para a resolução do problema proposto como o desenvolvimento do chat em si.
