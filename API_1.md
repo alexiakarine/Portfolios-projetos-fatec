@@ -73,8 +73,8 @@ Visualizaçao de localizações <br>
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
-- FIREBASE (Proeficiência: Sei fazer sem ajuda)
-- AppInventor (Proeficiência: Sei fazer sem ajuda)
+- FIREBASE (Proficiência: Sei fazer sem ajuda)
+- AppInventor (Proficiência: Sei fazer sem ajuda)
 
 #### Soft Skills Efetivamente Desenvolvidas
 * Autonomia para junto ao cliente validar as entregas de valor do time usando a metodologia SCRUM
