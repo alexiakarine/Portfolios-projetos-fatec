@@ -46,7 +46,7 @@ Tela de upload de arquivos
 - Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
 - Spring Framework (Utiilizado para criar a aplicação)
 - IntelliJ (Utilizado como editor de código back-end)
-- IDE Vs Code (Utilizado como editor de código front-end)
+- Vs Code (Utilizado como editor de código front-end)
 - VueJS (Utilizada nos códigos front-end da aplicação)
 - Oracle | Oracle Clound (Utilizado para armazenamento de dados)
 
