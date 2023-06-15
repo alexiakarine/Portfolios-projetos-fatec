@@ -48,24 +48,24 @@ Tela de configuração<br>
 ## :books: Contribuições Pessoais
 * Atuação como  Scrum master mantendo a comunicação entre a equipe de desenvolvimento e o Product Owner, para suprir as necessidades do time rumo ao objetivo.
 * Burndown e acompanhamento das tarefas
-* No front-end, usando o Vue.JS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back, na tela principal ao buscar a palavra, o datagrid é exibido com as respectivas colunas de descrições da palavra pesquisada.
+* No front-end, usando o Vue.JS, escolhemos a biblioteca Primefaces como apoio para desenvolver toda a parte visual do projeto. Além do axios para a integração do front com o back-end, na tela principal ao buscar a palavra, o datagrid é exibido com as respectivas colunas de descrições da palavra pesquisada.
 
 <details>
 <summary>Códigos</summary>
-Código da conulta de textos<br>
+Código da consulta de textos<br>
 
 Abaixo temos a declaração dos modais utilizados, sendo o displayModalBusca o modal exibido ao buscar uma palavra e o displayModalTexto o modal exibido ao consultar um texto.
 <br>
 ![consultarTextos](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultarTexto1.PNG) 
  
-<br>Aqui podemos ver a chamada do modal exibido através dos botões Buscar(icon = "pi pi-search") e Conultar texto.<br>
+<br>Aqui podemos ver a chamada do modal exibido através dos botões Buscar(icon = "pi pi-search") e Consultar texto.<br>
 <br>
 ![consultarTexto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/consultaTexto.PNG)
 
 <br> Neste caso optamos por exibir os dados organizados nas colunas pelo dialog como mostrado abaixo.
 ![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/buscarTexto.PNG)
  
- <br> Utilizamos o axios para se comunicar com o back e trazer as informações necessárias para a exibição.
+ <br> Utilizamos o axios para se comunicar com o back-end e trazer as informações necessárias para a exibição.
 ![colunas](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/metodoBuscaa.PNG)
 </details>
 
