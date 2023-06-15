@@ -6,7 +6,7 @@
 
 
 ## :briefcase: A empresa
-Neste semestre não houve empresa externa o cliente foi o curso de Manutenção de aeronaves.
+Neste semestre não houve empresa externa. O cliente foi o curso de Manutenção de aeronaves.
 
 ## :clipboard: Solicitação 
 A norma STE é utilizada pelos fabricantes de aviões e componentes aeronáuticos com a proposta de escrever em inglês utilizando não mais que 900 palavras (todos os fabricantes utilizam). Para a documentação das aeronaves, é necessário realizar uma verificação das palavras aprovadas para que esteja conforme a norma. Atualmente, no curso de Manutenção de Aeronaves, esta busca é realizada por meio de uma planilha que apresenta as palavras e suas características.
